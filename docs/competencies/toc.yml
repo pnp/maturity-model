@@ -14,6 +14,8 @@
       href: microsoft365-maturity-model--communication.md
     - name: Elevating Communication
       href: microsoft365-maturity-model--how-to-elevate-communication.md
+    - name: The Principles of Communication
+      href: https://pnp.github.io/community-docs/articles/principles-of-communication.html
 - name: Customization and Development Competency
   href: microsoft365-maturity-model--customization-and-development.md
 - name: Employee Experience Competency
@@ -30,8 +32,12 @@
       href: microsoft365-maturity-model--people-and-communities-competency.md
     - name: Elevating People and Communities
       href: microsoft-maturity-model-how-to-people-communities.md
-- name: Search Competency
-  href: microsoft365-maturity-model--search.md
+- name: Search
+  items:
+    - name: Search Competency
+      href: microsoft365-maturity-model--search.md
+    - name: The Principles of Search
+      href: https://pnp.github.io/community-docs/articles/principles-of-search.html
 - name: Security Competency
   items:
     - name: Security Competency
