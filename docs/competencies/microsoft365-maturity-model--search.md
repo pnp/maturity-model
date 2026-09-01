@@ -340,6 +340,7 @@ Benefits are found in sharing stories, knowledge and understanding but are diffi
 - [Building Custom Microsoft Search Connectors](https://github.com/microsoftgraph/msgraph-search-connector-sample/tree/master/PartsInventoryConnector)
 - [Search bookmarks](/microsoftsearch/manage-bookmarks)
 - [Creating custom search results pages in SharePoint Online](https://techcommunity.microsoft.com/t5/microsoft-search-blog/creating-custom-search-results-pages-in-sharepoint-online/ba-p/1141515)
+- [The Principles of Search](https://pnp.github.io/community-docs/articles/principles-of-search.html)
 
 ## Conclusion
 
