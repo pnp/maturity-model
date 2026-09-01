@@ -284,6 +284,7 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 ## Related documents
 
 - [International Association of Business Communicators](https://www.iabc.com/)
+- [The Principles of Communication](https://pnp.github.io/community-docs/articles/principles-of-communication.html)
 - [Example style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 - [Organizational communications: Guidance, methods, and products](/sharepoint/corporate-communications-overview)
 - [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
