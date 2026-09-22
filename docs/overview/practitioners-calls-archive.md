@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Practitioners Calls Archive
-ms.date: 6/9/2026
+ms.date: 9/22/2026
 author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -30,6 +30,8 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ## Table of Contents
 
+- [September 2026 - Revisiting the Governance, Risk, & Compliance Competency](#revisiting-the-governance-risk--compliance-competency)
+- [June 2026 - Revisiting the People and Communities Competency](#revisiting-the-people-and-communities-competency)
 - [May 2026 - Frontier Firm: Maturity Model Perspective](#frontier-firm-maturity-model-perspective)
 - [April 2026 - Revisiting the Staff and Training Competency](#revisiting-the-staff-and-training-competency)
 - [March 2026 - Security Competency](#security-competency)
@@ -48,6 +50,44 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 ---
 
 ## Practitioners Calls Archive
+
+### Revisiting the Governance, Risk, & Compliance Competency
+
+September 2026 | Recording: <a href="https://www.youtube.com/watch?v=H9-QqsdxSj0" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/nikkichapple/" target="_blank">Nikki Chapple, MVP</a>
+
+**Summary:** Nikki Chapple co-authored the Governance, Risk & Compliance competency with Simon Hudson and opened by admitting she had thought it was three years ago. It was 2021. The environment the competency was written for has changed shape since. Back then the question was how to govern people using Microsoft 365: organizations had rushed into Teams, SharePoint and OneDrive during the pandemic, and governance meant getting a grip on the tenant and its content. In 2026 the question is how to govern people, information, AI, agents and decisions together, across a scope that now reaches into Copilot Studio, the Power Platform and third-party tools connected through MCP servers and skills files. Governance used to be periodic. Now it has to be continuous.
+
+Her central proposal is to keep GRC as a separate competency but rebuild it around four connected capabilities instead of the original people, process and technology split. Governance and accountability covers ownership and decision rights, and she was firm that an agent can never be the accountable party; a human has to be. Risk management asks what could go wrong, with Microsoft 365 as one lens on the organisation's wider risk portfolio. Obligations, policies and compliance covers what must be done, from the EU AI Act, enforced since August, through NIS2 and DORA to the organisation's own rules. Evidence and assurance, the capability she sees skipped most often, is how you show that what you say you do is actually happening. Her analogy was a long drive in an electric car: you cannot plan the route without knowing where you start, and you check the battery at every stop.
+
+The second shift is where the detail lives. GRC should define the why, the what and the who, and set the rule book. The specialist competencies, such as security, management of content, collaboration, AI and cognitive business, and staff and training, implement and operate the controls and report the evidence back up. She walked through one control, protecting sensitive information shared externally, to show how the same requirement lands differently in each of them, and she was clear that deciding what counts as sensitive is a business decision, not an IT job.
+
+AI governance, she argued, is not a fifth domain. Agents do not create a new governance model; they expose the need for the four capabilities that were already there. The questions are the same ones: who owns the agent, what can it access and change, how is it audited, and can you prove a year later which version and which model ran and who approved it. On maturity levels, she and Simon agree that level 300 is the minimum viable position for GRC, unlike other competencies, and that the pace of change makes level 500, where the organisation keeps learning and adapting, the one worth aiming for. Scores across the four capabilities will differ, and averaging them hides the gaps.
+
+The questions turned to cost. Token consumption in Copilot Studio and Azure can double when Microsoft changes its pricing model, and the answer was to treat spend as a risk-management control: hard limits at tenant level, tiered allowances by risk and business value, alerts at thresholds, and a benchmark agreed with management before development starts. Pia added that IT has to learn to speak management when it comes to risk, in terms of fines and leaked data rather than routers and backups. Nikki's closing line summed up the session: we are moving from governing Microsoft 365 to governing the digital ecosystem.
+
+`Governance, Risk & Compliance`, `AI & Cognitive Business`, `Security` | [→ Back to top](#table-of-contents)
+
+---
+
+### Revisiting the People and Communities Competency
+
+June 2026 | Recording: <a href="https://www.youtube.com/watch?v=65y6rZu89mQ" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/tracy-van-der-schyff-6470a543/" target="_blank">Tracy van der Schyff, MVP</a>
+
+**Summary:** Tracy van der Schyff revisited People and Communities four years after she last presented it, and said from the start that this would not be a session about technology. Plenty of people can tell you which tool to use; far fewer make time for the conversations in between, the human ones. Her slide about who matters most in a community was the same slide she used in 2022, because that part has not changed: the most important part of this competency is you.
+
+Her sharpest argument followed from that, and it was about time rather than tooling. If people are the most important part of communities, does the organization actually give them the hours to take part in one? Community participation appears in almost no KPIs, job descriptions or targets, and where what leadership values does not align with what employees are measured on, there is no space for knowledge sharing at all. The same is true of training: the budget is usually there, the permission to spend a working day learning almost never is. Community is peer-to-peer, not communication pushed down from the top.
+
+What has changed since 2022 is that people are connected by context rather than structure, and AI is now a participant rather than an observer. Hence the line the chat seized on — community is no longer where you go, it is what happens when people, knowledge and context come together. That is a real adjustment for people, who still want a coffee shop to walk into — part of why most organizations are parked at level 200, where the noise makes it a comfortable couch to fall back onto. A community-led culture only arrives once sharing has become second nature, and it only becomes second nature when it is easy, trusted, trained for, and safe to do in front of colleagues. On intranets she was equally direct: the biggest mistake is building them for the people who pay for them rather than the people who use them. And communities will not start by themselves — what feels forced at first becomes culture over time, so design the skeleton, run a content schedule and get leaders posting, then step off once it catches.
+
+The discussion turned to why that so often fails. A manager is not automatically a leader, and where leadership is administrative rather than actually leading, communities end up dependent on a few individuals and die when those individuals burn out. Tracy was open about fighting for the underdog: employees are held accountable for decisions taken above them, and expected to learn without being given the hours. Marc Anderson asked what value you can put in front of leadership to prove a community works; Mats Warnolf's starting point was to measure behavior change rather than post counts, and Pia's was that silence is data — radio silence during a crisis means the conversation is happening somewhere you cannot see. Underneath all of it sits psychological safety: nobody wants to be the first to post, and in many organizations decades of learning not to speak out of turn have to be actively untrained. The session closed on the distinction that makes the difference — sharing means sending something to people you have chosen, contributing means putting it out for people you will never meet. Contributing is where the value is, and it is the part most people are afraid of.
+
+`People & Communities`, `Communications`, `Staff & Training` | [→ Back to top](#table-of-contents)
+
+---
 
 ### Frontier Firm: Maturity Model Perspective
 
