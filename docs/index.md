@@ -26,3 +26,5 @@ If you've been here before and would like to dive in more deeply, we recommend s
 Once you've explored the competencies, you can also check out the [How to Elevate Your Microsoft 365 Maturity](competencies/microsoft365-maturity-model--how-to-elevate-your-m365-maturity.md) article. It provides practical guidance on how to move from one maturity level to the next, with specific actions and recommendations for each competency.
 
 If you have suggestions for improving the Maturity Model for Microsoft 365, please submit your feedback by emailing us at [info@mm4m365.org](mailto:info@mm4m365.org). We welcome your input and look forward to hearing from you!
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/index"/>

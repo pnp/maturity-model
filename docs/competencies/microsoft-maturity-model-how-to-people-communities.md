@@ -165,3 +165,5 @@ Improving your People and Communities maturity means rethinking your processes a
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft-maturity-model-how-to-people-communities"/>

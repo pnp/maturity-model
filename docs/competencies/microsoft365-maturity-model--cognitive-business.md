@@ -336,3 +336,5 @@ At this level the organization fluidly adopts AI alongside staff in order to exc
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--cognitive-business"/>

@@ -159,3 +159,5 @@ Principal authors:
 
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy, MVP](https://www.linkedin.com/in/simondoy)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/principles-of-search"/>

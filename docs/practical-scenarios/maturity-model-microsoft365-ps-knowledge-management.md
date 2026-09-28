@@ -432,3 +432,5 @@ Content, collaboration, and community engagement metrics are core components of 
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-ps-knowledge-management"/>

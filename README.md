@@ -27,3 +27,5 @@ Then open `http://localhost:8081`.
 
 - If you are in the `docs` folder, use `docfx docfx.json` (not `docfx docs/docfx.json`).
 - If port `8080` is in use, run with a different port (for example `--port 8081`).
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/README"/>

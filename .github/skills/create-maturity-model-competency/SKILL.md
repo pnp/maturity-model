@@ -168,3 +168,5 @@ Summarize:
 - Any sections left as placeholders that need subject matter input before publication.
 
 Then suggest reviewing the new document with the `review-maturity-model-competency` skill.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/SKILL"/>

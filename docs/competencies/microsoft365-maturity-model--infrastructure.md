@@ -404,3 +404,5 @@ Security is well documented and understood and risk is easily identified and man
 - [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/)
 
 - [Mark Williams](https://linkedin.com/in/m2kw6s)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--infrastructure"/>
