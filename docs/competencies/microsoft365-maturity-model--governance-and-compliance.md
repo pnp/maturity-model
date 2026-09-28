@@ -407,7 +407,7 @@ At this level, the governance, risk and compliance controls are aligned to the o
 
 ## Cost & benefit
 
-Many characteristics can be delivered using the M365 platform to develop Governance and Compliance solutions and processes, especially using SharePoint, Microsoft Teams, Power Automate etc. available with any Business or Enterprise license. The native compliance capabilities of M365, such as those in the Compliance Center, do depend on the Microsoft 365 licensing level. While there is not a direct mapping, a useful guide is provided below. Some functionality requires additional licenses.
+Many characteristics can be delivered using the M365 platform to develop Governance and Compliance solutions and processes, especially using SharePoint, Microsoft Teams, Power Automate etc. available with any Business or Enterprise license. The native compliance capabilities of M365, such as those in the Microsoft Purview portal, do depend on the Microsoft 365 licensing level. While there is not a direct mapping, a useful guide is provided below. Some functionality requires additional licenses.
 
 :::image type="content" source="images/microsoft365-maturity-model--governance-and-compliance/grc-technical-controls.png" alt-text="Governance, Risk, and Compliance technical controls":::
 
