@@ -147,3 +147,5 @@ Our goal is to apply the same core competencies that were the core of the origin
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--intro"/>

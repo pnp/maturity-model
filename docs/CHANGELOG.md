@@ -1201,3 +1201,5 @@ No significant changes.
 | Maturity Model for Microsoft 365 - Introduction | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | Follow Microsoft 365 on Social Media | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/) |
 | Maturity Model for Microsoft 365 - Staff &amp; Training Competency | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/CHANGELOG"/>

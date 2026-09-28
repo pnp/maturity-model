@@ -326,3 +326,5 @@ These improvements have a huge benefit to staff well-being and retention levels 
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--people-and-communities-competency"/>

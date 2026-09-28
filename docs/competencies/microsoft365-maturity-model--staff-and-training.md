@@ -225,3 +225,5 @@ Providing solutions to existing problems will generate higher interest across th
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--staff-and-training"/>

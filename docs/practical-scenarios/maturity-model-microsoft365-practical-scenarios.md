@@ -30,3 +30,5 @@ As with all aspects of the Maturity Model, we'd love to get your examples and fe
 **Principal author**: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-practical-scenarios"/>

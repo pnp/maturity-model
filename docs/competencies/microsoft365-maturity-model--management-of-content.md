@@ -468,3 +468,5 @@ Burgeoning automation and AI make achieving high levels of maturity realistic fo
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--management-of-content"/>

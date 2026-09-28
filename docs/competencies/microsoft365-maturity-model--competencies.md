@@ -43,3 +43,5 @@ Use the competency articles below to explore the model in detail.
 ## Related guidance
 
 After you have reviewed the competency descriptions, continue to [How to Elevate Your Microsoft 365 Maturity](microsoft365-maturity-model--how-to-elevate-your-m365-maturity.md) for practical next-step guidance across the published elevation articles.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--competencies"/>

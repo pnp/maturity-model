@@ -44,3 +44,5 @@ Some competencies currently provide their core guidance in the main competency a
 - [Infrastructure](microsoft365-maturity-model--infrastructure.md)
 - [Management of Content](microsoft365-maturity-model--management-of-content.md)
 - [Search](microsoft365-maturity-model--search.md)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--how-to-elevate-your-m365-maturity"/>

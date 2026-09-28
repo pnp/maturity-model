@@ -134,3 +134,5 @@ Use this format:
 ```
 
 Omit empty severity groups only when the review would otherwise become repetitive. State `None found` for Blocker findings when no publication blocker exists.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/SKILL"/>

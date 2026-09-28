@@ -172,3 +172,5 @@ Effective branding is far more than simply a logo and some colors. It should be 
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-ps-enhancing-brand-management"/>

@@ -489,3 +489,5 @@ Achieving compliance is not a project. It is an ongoing process that needs embed
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--governance-and-compliance"/>
