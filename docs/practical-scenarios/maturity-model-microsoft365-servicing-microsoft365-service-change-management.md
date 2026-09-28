@@ -98,3 +98,5 @@ This model is intended to give you a reference and some inspiration for improvin
 **Principal author**: [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-servicing-microsoft365-service-change-management"/>

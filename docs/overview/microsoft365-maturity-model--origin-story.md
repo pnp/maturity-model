@@ -70,3 +70,5 @@ Not every organization needs to be at the top level. NASA or Airbus have differe
 [!INCLUDE [mm4m365-practitioners](../includes/mm4m365-practitioners.md)]
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--origin-story"/>

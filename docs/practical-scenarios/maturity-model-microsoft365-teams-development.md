@@ -61,3 +61,5 @@ Now I am the first to admit it is not an exact science: some companies might req
 **Principal author**: [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-teams-development"/>

@@ -193,3 +193,5 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--how-to-elevate-collaboration"/>

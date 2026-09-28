@@ -353,3 +353,5 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--collaboration"/>

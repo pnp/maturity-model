@@ -392,3 +392,5 @@ Implementing Microsoft 365 Copilot organization-wide requires a holistic, maturi
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-practical-scenarios-copilot-implementation"/>

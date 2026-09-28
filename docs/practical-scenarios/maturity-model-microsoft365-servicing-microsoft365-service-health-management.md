@@ -68,3 +68,5 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 **Principal author**: [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/maturity-model-microsoft365-servicing-microsoft365-service-health-management"/>

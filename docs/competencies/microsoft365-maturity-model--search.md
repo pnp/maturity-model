@@ -389,3 +389,5 @@ Organizations should capture success stories to provide examples of the benefits
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model--search"/>

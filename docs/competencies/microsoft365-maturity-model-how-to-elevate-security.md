@@ -539,3 +539,5 @@ Regardless of where your organization is today, you can take action to improve s
 ---
 
 [!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+
+<img src="https://m365-visitor-stats.azurewebsites.net/maturity-model/microsoft365-maturity-model-how-to-elevate-security"/>
