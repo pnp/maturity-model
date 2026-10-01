@@ -144,7 +144,7 @@ This article explores how organizations at any level could use the Microsoft 365
 - **Microsoft Defender for Office 365 (Plan 1)** – Safe Attachments, Safe Links, anti-phishing
 - **Sensitivity Labels** – Start with 3-4 labels and train users
 - **Unified Audit Log** – Enable comprehensive logging across services
-- **Microsoft Purview portal** – Access to data security, governance, risk, and compliance solutions
+- **Microsoft 365 Compliance Center** – Centralized policy management
 - **Attack Simulation Training** – Regular phishing simulations
 
 ---
