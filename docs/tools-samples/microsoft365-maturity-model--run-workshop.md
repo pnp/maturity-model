@@ -141,7 +141,7 @@ As before, use these to refine the action plan, redirect focus onto new areas of
 ## Resources
 
 * [All MM4M365 workshop tools](https://symp.info/MM4M365Tools)
-* [Workbook - MM4M365 workshop tool - Content Set](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/MicrosoftDocs/microsoft-365-community/main/Community/images/microsoft365-maturity-model--run-workshop/Workbook%2520-%2520MM4M365%2520workshop%2520tool%2520-%2520Content%2520Set.xlsx&wdOrigin=BROWSELINK)
+* [Workbook - MM4M365 workshop tool - Content Set](./images/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx)
 * [Workbook - MM4M365 workshop tool - Hardcore Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoftDocs%2Fmicrosoft-365-community%2Fmain%2FCommunity%2Fmedia%2Fmicrosoft365-maturity-model--run-workshop%2FWorkbook%2520-%2520MM4M365%2520workshop%2520tool%2520-%2520Hardcore%2520Set.xlsx&wdOrigin=BROWSELINK)
 * [Workbook - MM4M365 workshop tool - People Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoftDocs%2Fmicrosoft-365-community%2Fmain%2FCommunity%2Fmedia%2Fmicrosoft365-maturity-model--run-workshop%2FWorkbook%2520-%2520MM4M365%2520workshop%2520tool%2520-%2520People%2520Set.xlsx&wdOrigin=BROWSELINK)
 * [Workbook - MM4M365 workshop tool - Quick Assessment](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoftDocs%2Fmicrosoft-365-community%2Fmain%2FCommunity%2Fmedia%2Fmicrosoft365-maturity-model--run-workshop%2FWorkbook%2520-%2520MM4M365%2520workshop%2520tool%2520-%2520Quick%2520assessment.xlsx&wdOrigin=BROWSELINK)
