@@ -334,7 +334,6 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 - Viva Goals
 - Viva Insights
 - Microsoft Sales Copilot
-- Viva Engage
 
 ## Resources
 
