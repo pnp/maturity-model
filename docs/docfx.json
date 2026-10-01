@@ -16,7 +16,8 @@
       {
         "files": [
           "**/images/**",
-          "**/media/**"
+          "**/media/**",
+          "**/files/**"
         ],
         "exclude": [
           "_site/**"
