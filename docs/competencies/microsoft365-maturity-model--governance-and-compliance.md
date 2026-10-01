@@ -471,7 +471,7 @@ The available compliance capabilities in your tenant will depend on your Microso
 - [Microsoft 365 compliance documentation | Microsoft Docs](/microsoft-365/compliance/)
 - [Microsoft 365 guidance for security & compliance - Service Descriptions | Microsoft Docs](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#advanced-audit)
 - [Get started with the Microsoft Service Trust Portal - Microsoft 365 Compliance | Microsoft Docs](/microsoft-365/compliance/get-started-with-service-trust-portal)
-- [Microsoft Purview compliance portal](https://compliance.microsoft.com/)
+- [Microsoft Purview portal](https://purview.microsoft.com/)
 
 ## Conclusion
 
