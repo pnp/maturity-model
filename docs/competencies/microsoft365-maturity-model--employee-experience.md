@@ -395,10 +395,6 @@ Use of technologies can help, but these must always be blended with good managem
 - Viva Learning
 - Viva Skills
 
-#### Mission and Alignment
-
-- Viva Goals
-
 #### Knowledge
 
 - Answers in Viva

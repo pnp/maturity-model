@@ -331,7 +331,6 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 - Microsoft Lists
 - OneDrive
 - Viva Engage
-- Viva Goals
 - Viva Insights
 - Microsoft Sales Copilot
 

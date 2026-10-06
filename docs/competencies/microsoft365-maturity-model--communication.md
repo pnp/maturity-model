@@ -271,7 +271,6 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 - Viva Amplify
 - Viva Connections
 - Viva Engage
-- Viva Goals
 - Viva Insights
 - Viva Pulse
 - Topics
