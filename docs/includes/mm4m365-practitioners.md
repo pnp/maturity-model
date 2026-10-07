@@ -1,2 +1,3 @@
 > [!Tip]
 > [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Each month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focuses on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions include a presentation on a topic about the Maturity Model, including recent updates. [Calendar link](https://aka.ms/mm4m365/invite)
+You can access previous Practitioner sessions through the [Maturity Model YouTube](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXALeeIt1nbgBcSLj3WxyBi) channel.
