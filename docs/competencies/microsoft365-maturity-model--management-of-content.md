@@ -387,7 +387,7 @@ At this level you can expect the following:
 
 - ✨ There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. ["Putability"](/community-docs/articles/glossary.md#putability) is actively guided or fully automated, based on AI classifiers.
 - Storage is largely "invisible" to staff. Content is created, stored and accessed without a need to learn the storage structures.
-- There are effectively no limits to the volume of storage or type of content that can be stored and accessed.
+- Storage is planned and monitored against the tenant's licensed and purchased capacity and Microsoft's applicable service limits, including site collection limits ([SharePoint Online limits](https://learn.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)). Administrators plan capacity at both tenant and site collection levels, using lifecycle management, monitoring and governance to keep content available and within those limits.
 
 #### 500 Impacts
 
