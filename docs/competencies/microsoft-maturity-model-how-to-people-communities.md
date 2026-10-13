@@ -44,7 +44,7 @@ Begin to pilot open community spaces like Viva Engage or an org-wide Team. The "
 
 ### People (level 100 to 200)
 
-Reach out to your [SharePoint Champions](/community-docs/articles/identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve](https://support.microsoft.com/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
+Reach out to your [SharePoint Champions](/community-docs/articles/identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to complete and maintain their Microsoft 365 profile information, including skills and expertise where those fields are available in your organization. Use Microsoft 365 search and profile cards in apps such as Teams, Outlook, and SharePoint to help people find colleagues who provide internal customer service support (like answering benefits questions or providing support with a specific software), and to identify sources of knowledge and expertise.
 
 ## How to move from Managed to Defined (level 200 to 300)
 
@@ -76,7 +76,7 @@ The most effective guidelines are simple and easy to consume supporting quick de
 
 ### People (level 200 to 300)
 
-- Review the feedback from the pilot group using Delve and create guidelines for the company on how to complete profiles and use search to locate expertise across the company. Include specifics in your guidelines on how each field will be used at your organization.
+- Review feedback from the pilot group using Microsoft 365 search and profile cards. Create company guidelines on completing profiles and using people search to locate expertise across the organization. Include specifics on how each profile field will be used.
 
   - For example, if employees are completing the "projects" field, does this include only active projects? What should be included in "skills"? If you are a small start-up, it may be helpful for employees to identify all their skills even if it is not relevant to their current position. Your start-up, with no corporate communications department, may need video editing help and finding an internal resource is the only option due to a limited project budget. If you are a large organization, including skills not specific to employees' roles may cause confusion on who-does-what.
 
@@ -124,14 +124,13 @@ To advance to the 500 level, consider the following activities:
 
 ### People (level 400 to 500)
 
-- End users have become comfortable searching for skills, expertise, and projects in people profiles so training should be expanded to include guidance on how to use [Delve](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) and [MyAnalytics](/workplace-analytics/myanalytics/mya-landing-page) to be more productive.
+- End users have become comfortable searching for skills, expertise, and projects in Microsoft 365 profiles, so training should be expanded to include guidance on using Microsoft 365 search and profile cards, as well as [Viva Insights](https://learn.microsoft.com/office365/servicedescriptions/microsoft-viva-service-description), to be more productive.
 
   For example:
 
-  - When searching for a subject matter expert, explore the Delve profile of your colleague to see documents you both have access to. This can help you better understand where they sit in the organization, what they are actively working on, and areas you might already overlap.
-  - On your own Delve profile, explore the "discover documents from people around you" section to get a better idea of the initiatives your colleagues are working on. You will only see documents you have permission to though you may spot some activities where you should be involved or that impact your current projects. This is a great way to proactively explore what is happening around you.
-  - Use the "Favorites" board to create a place for all the helpful documents across Microsoft 365 that help you work more effectively.
-  - Spend time each week in MyAnalytics to get data-driven insights to help you be more productive by seeing data on your work, network, and collaboration habits.
+  - When searching for a subject matter expert, use Microsoft 365 search to find people and open their profile cards to learn about their role, expertise, and organizational connections.
+  - Search Microsoft 365 for documents related to your work and explore relevant results you have permission to access. This can help you identify initiatives that may affect your projects or where you can contribute.
+  - Where available, review Viva Insights regularly for data-driven insights about your work, network, and collaboration habits.
     - Increasing awareness of your focus can reduce lost time due to distractions.
     - Being aware of your wellbeing can reduce stress and anxiety as you create space to disconnect from work.
     - Keeping an eye on your network can ensure you are spending time with the colleagues who need your attention the most.
@@ -155,8 +154,8 @@ Improving your People and Communities maturity means rethinking your processes a
 - [Welcome to Microsoft Teams](/microsoftteams/teams-overview)
 - [Create and Share News on your SharePoint Sites](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7)
 - [Microsoft Viva Engage](https://www.microsoft.com/microsoft-viva/engage)
-- [What is Delve?](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca)
-- [MyAnalytics](/workplace-analytics/myanalytics/mya-landing-page)
+- [Delve retirement](https://learn.microsoft.com/sharepoint/delve-retirement)
+- [Microsoft Viva service description, including Viva Insights](https://learn.microsoft.com/office365/servicedescriptions/microsoft-viva-service-description)
 
 ---
 
