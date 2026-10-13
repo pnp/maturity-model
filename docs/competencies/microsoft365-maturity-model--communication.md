@@ -261,7 +261,7 @@ Organizations should define their desired maturity, based on their needs, circum
 Every organization can choose how best to use the Microsoft 365 platform for communication. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services that are in the mix for communication include the following:
 
 - Email
-- Delve / people cards
+- Microsoft 365 search / profile cards
 - Mobile device notifications (via Flow, Teams etc.)
 - Microsoft Teams
 - SharePoint Communication Sites
