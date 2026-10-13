@@ -105,7 +105,7 @@ At this level, organizations have begun piloting Copilot with selected groups, b
 - 86% of organizations delayed AI deployments by up to a year due to security and data quality concerns (AvePoint 2025 AI Report)
 - Risk of burning out champions if too much is put on them
 - Serious risks: AI hallucination leading to legal issues (e.g., Air Canada case where AI hallucinated a policy and the court said they had to honor it)
-- 75% experienced at least one AI-related breach in the past years, primarily due to oversharing sensitive employee or customer data (AvePoint 2025 AI Report)
+- 75% experienced at least one AI-related breach in the past year, primarily due to oversharing sensitive employee or customer data (AvePoint 2025 AI Report)
 - Data leaks due to lack of control over data and guardrails
 - When users lose trust, they go back to old ways of working
 - Bad information architecture compounds at artificial intelligence speed
