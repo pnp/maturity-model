@@ -103,7 +103,7 @@ This article explores how organizations at any level could use the Microsoft 365
 #### Technology
 
 - Security controls are standardized across the organization
-- MFA is required for everyone
+- MFA is required for everyone, with documented and monitored exclusions only for emergency access accounts
 - Centralized logging and monitoring provide visibility
 - Data classification begins with automated default labels
 - Microsoft Secure Score is actively managed with systematic remediation
@@ -350,7 +350,7 @@ After losing the major contract, Contoso's leadership commits to building mature
 
 Over the next year, significant changes occur:
 
-- MFA is required for everyone, no exceptions
+- MFA is required for all users through Conditional Access. The only exclusions are two monitored emergency access (break-glass) accounts, which use phishing-resistant authentication such as passkeys (FIDO2) so they still meet [Microsoft's mandatory MFA for Azure and admin portals](https://learn.microsoft.com/entra/identity/authentication/concept-mandatory-multifactor-authentication) ([Manage emergency access accounts](https://learn.microsoft.com/entra/identity/role-based-access-control/security-emergency-access))
 - Security policies are formally documented and consistently enforced
 - All employees complete mandatory security awareness training
 - Microsoft Secure Score improves from 32% to 78%
