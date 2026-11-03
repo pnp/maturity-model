@@ -31,12 +31,17 @@ Add a new type by adding a row here and a template section below. Do not invent 
 
 ### Inputs
 
-Session date, topic, speakers, speaker plugs, recording URL, slides link, transcript, links mentioned.
+One "Practitioners Call" issue follows a call from the day the topic is set until the post is published. The form fields are filled in over time by editing the issue, and corrections arrive as comments.
 
-- Do not fetch the YouTube transcript or watch the video. The transcript is pasted into the issue. If it is missing, stop and ask for it in the issue.
+- Read the issue body as it stands now **and every comment**. A later comment overrides the form; for example a speaker's corrected title or a new plug.
+- Session date, topic, speakers, speaker plugs, recording URL, competencies, presentation PDF, transcript, links mentioned.
+- Before writing, check that the recording URL and the transcript are there and that the consent box is ticked. If not, comment on the issue with what is missing and stop.
+- Do not fetch the YouTube transcript or watch the video. If the transcript is missing, ask for it in the issue.
 - The session date is the date of the call, not the upload date.
 - Speaker plugs come only from the issue, never from the transcript.
-- Check the recording ID against existing archive posts and the legacy archive page; do not create a duplicate.
+- Check the recording ID against existing posts and the legacy archive page; do not create a duplicate.
+- Never name attendees (people who are not speakers or core team) in the post or the chapter titles.
+- Changes after the pull request is open are asked for in the pull request, not in the issue. Changes after the post is merged go in a new issue, or straight in the file.
 
 ### Chapters
 
