@@ -22,6 +22,29 @@ _disableAffix: true
 
 > [!Video https://www.youtube-nocookie.com/embed/mLk3M359RZ0]
 
+## Chapters
+
+<div class="mm-chapters">
+
+- [0:00](https://www.youtube.com/watch?v=mLk3M359RZ0&t=0s) Welcome: a second take on GRC
+- [1:37](https://www.youtube.com/watch?v=mLk3M359RZ0&t=97s) How the calls work and how to join
+- [5:17](https://www.youtube.com/watch?v=mLk3M359RZ0&t=317s) How the model is built
+- [6:36](https://www.youtube.com/watch?v=mLk3M359RZ0&t=396s) Maturity levels 100 to 500
+- [8:48](https://www.youtube.com/watch?v=mLk3M359RZ0&t=528s) Get involved, and the next calls
+- [13:33](https://www.youtube.com/watch?v=mLk3M359RZ0&t=813s) Joanne Klein: picking up from Nikki's session
+- [17:05](https://www.youtube.com/watch?v=mLk3M359RZ0&t=1025s) Who owns what: GRC and the specialists
+- [20:16](https://www.youtube.com/watch?v=mLk3M359RZ0&t=1216s) Design, implement, operate, improve
+- [22:04](https://www.youtube.com/watch?v=mLk3M359RZ0&t=1324s) Maturity in the specialist areas
+- [26:21](https://www.youtube.com/watch?v=mLk3M359RZ0&t=1581s) Three levels of evidence
+- [28:27](https://www.youtube.com/watch?v=mLk3M359RZ0&t=1707s) Specialist competencies and the technology
+- [32:29](https://www.youtube.com/watch?v=mLk3M359RZ0&t=1949s) Example: sharing sensitive information externally
+- [39:24](https://www.youtube.com/watch?v=mLk3M359RZ0&t=2364s) Takeaways
+- [41:32](https://www.youtube.com/watch?v=mLk3M359RZ0&t=2492s) Q&A: getting business leaders on board
+- [46:38](https://www.youtube.com/watch?v=mLk3M359RZ0&t=2798s) Q&A: a governance committee with teeth
+- [50:39](https://www.youtube.com/watch?v=mLk3M359RZ0&t=3039s) Q&A: proving an outcome before an incident
+
+</div>
+
 ## Summary
 
 Joanne Klein built on Nikki Chapple's September session, showing how specialist competencies contribute to Governance, Risk & Compliance outcomes. GRC defines the business outcome, accountability, guardrails, risk tolerance and the evidence needed; the relevant specialists design, implement and operate controls. Their operational evidence then informs GRC's assessment, and what is learned can lead to changes in the controls or requirements.
