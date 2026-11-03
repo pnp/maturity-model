@@ -273,7 +273,6 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 - Viva Engage
 - Viva Insights
 - Viva Pulse
-- Topics
 
 ## Resources
 
