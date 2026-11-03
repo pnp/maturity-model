@@ -386,8 +386,10 @@ Security maturity requires more than software licensing. Consider these investme
 |-------|-------------------|-------------------------|
 | 100→200 | Business Basic/Standard or E3 | MFA, Security Defaults, basic monitoring |
 | 200→300 | Business Premium or E3 | Conditional Access, enhanced monitoring |
-| 300→400 | E5 or E5 Security | Advanced threat detection, SIEM, comprehensive DLP |
+| 300→400 | E5, or E3/Business Premium plus a security add-on such as Microsoft Defender Suite (formerly Microsoft 365 E5 Security) | Advanced threat detection and response (Defender XDR), SIEM through Microsoft Sentinel (billed separately in Azure), Purview DLP capabilities that depend on the specific SKU and add-ons |
 | 400→500 | E5 + specialized tools | Behavioral analytics, Zero Trust, automation |
+
+Microsoft 365 suites and Azure security services are licensed separately. Microsoft Sentinel (SIEM) is not included in E5 or in a security add-on; it is billed through Azure based on data ingested and retained ([Microsoft Sentinel billing](https://learn.microsoft.com/azure/sentinel/billing)). Data loss prevention entitlements vary by capability (for example Exchange, SharePoint and OneDrive, Teams, or endpoint DLP) and by SKU, so check the [Microsoft Purview service description](https://learn.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-purview-service-description) for the plans and add-ons your organization holds. Product and add-on names change often; confirm current names in the [Microsoft licensing documentation](https://learn.microsoft.com/entra/fundamentals/licensing).
 
 ### Beyond Licensing
 
