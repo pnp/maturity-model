@@ -16,7 +16,7 @@ _disableAffix: true
 <div class="mm-post-head">
 <p class="mm-eyebrow">Practitioners Call · 16 June 2026</p>
 <h1>Revisiting the People and Communities Competency</h1>
-<p class="mm-post-who"><span class="mm-avatar mm-bg1" aria-hidden="true">TS</span><span><strong>Tracy van der Schyff</strong>, MVP</span></p>
+<p class="mm-post-who"><span class="mm-avatar mm-bg1" aria-hidden="true">TS</span><span><strong>Tracy van der Schyff</strong>, MVP<br />Owner, The Guild Stuff</span></p>
 <p class="mm-pills"><a class="mm-pill" href="../competencies/microsoft365-maturity-model--people-and-communities-competency.md">People &amp; Communities</a><a class="mm-pill" href="../competencies/microsoft365-maturity-model--communication.md">Communication</a><a class="mm-pill" href="../competencies/microsoft365-maturity-model--staff-and-training.md">Staff &amp; Training</a></p>
 </div>
 
@@ -63,14 +63,21 @@ The discussion turned to why that so often fails. A manager is not automatically
 
 </div>
 
+## Presentation
+
+<div class="mm-deck">
+<object class="mm-deck-embed" data="files/2026-06-16-revisiting-people-and-communities.pdf#navpanes=0&amp;view=FitH" type="application/pdf" aria-label="Slides: Revisiting the People and Communities Competency"></object>
+<a class="mm-deck-card" href="files/2026-06-16-revisiting-people-and-communities.pdf" download><span class="mm-deck-icon" aria-hidden="true">PDF</span><span><strong>Download the slides</strong><span>PDF, 2.6 MB</span></span></a>
+</div>
+
 ## About the speaker
 
 <div class="mm-speaker">
 <span class="mm-photo mm-avatar mm-bg1" aria-hidden="true">TS</span>
 <div>
 <p class="mm-speaker-name">Tracy van der Schyff, MVP</p>
-<p>Presented the People and Communities competency to the community in 2022 and came back four years later to revisit it.</p>
-<p class="mm-speaker-links"><a href="https://www.linkedin.com/in/tracy-van-der-schyff-6470a543/">LinkedIn</a></p>
+<p>Owner of The Guild Stuff and a Microsoft 365 &amp; Copilot MVP. Presented the People and Communities competency to the community in 2022 and came back four years later to revisit it.</p>
+<p class="mm-speaker-links"><a href="https://www.linkedin.com/in/tracy-van-der-schyff-6470a543/">LinkedIn</a><a href="https://tracyvanderschyff.com">Website</a></p>
 </div>
 </div>
 

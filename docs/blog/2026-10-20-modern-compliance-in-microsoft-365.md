@@ -45,6 +45,13 @@ In the discussion, a participant asked how to engage business leaders who may se
 
 </div>
 
+## Presentation
+
+<div class="mm-deck">
+<object class="mm-deck-embed" data="files/2026-10-20-modern-compliance-in-microsoft-365.pdf#navpanes=0&amp;view=FitH" type="application/pdf" aria-label="Slides: Modern Compliance in Microsoft 365: A Maturity Model Perspective"></object>
+<a class="mm-deck-card" href="files/2026-10-20-modern-compliance-in-microsoft-365.pdf" download><span class="mm-deck-icon" aria-hidden="true">PDF</span><span><strong>Download the slides</strong><span>PDF, 1.5 MB</span></span></a>
+</div>
+
 ## About the speaker
 
 <div class="mm-speaker">

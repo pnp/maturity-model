@@ -64,6 +64,13 @@ The questions turned to cost. Token consumption in Copilot Studio and Azure can 
 
 </div>
 
+## Presentation
+
+<div class="mm-deck">
+<object class="mm-deck-embed" data="files/2026-09-15-revisiting-governance-risk-compliance.pdf#navpanes=0&amp;view=FitH" type="application/pdf" aria-label="Slides: Revisiting the Governance, Risk, &amp; Compliance Competency"></object>
+<a class="mm-deck-card" href="files/2026-09-15-revisiting-governance-risk-compliance.pdf" download><span class="mm-deck-icon" aria-hidden="true">PDF</span><span><strong>Download the slides</strong><span>PDF, 1.5 MB</span></span></a>
+</div>
+
 ## About the speaker
 
 <div class="mm-speaker">
