@@ -22,7 +22,7 @@ This Practical Scenarios document covers the servicing (frequent periodic upgrad
 
 ## Introduction to Office Servicing
 
-Microsoft releases a new version of Office every month or every six months depending on which update cadence you pick.  Each release is supported for a limited number of months, so you must plan to upgrade at least twice a year to maximize the security of the software and minimize the user impact of upgrading.
+How often Microsoft 365 Apps receive new versions, and how long each version is supported, depends on the [update channel](https://learn.microsoft.com/microsoft-365-apps/updates/overview-update-channels) assigned to each device, such as Current Channel or Monthly Enterprise Channel. Starting with Version 2606 in July 2026, Microsoft [unified Semi-Annual Enterprise Channel with Monthly Enterprise Channel](https://learn.microsoft.com/microsoft-365-apps/updates/unified-update-channels), so devices that were on the six-month cadence now follow the monthly enterprise cadence. Check which channel and update settings apply to your devices, and plan deployment rings against Microsoft's current release and end-of-service schedule for those channels rather than assuming one schedule for every device.
 
 An organization may have Office desktop apps installed on most or all workstations (e.g. laptops and desktops) as well as servers.  Office mobile apps are separate apps and serviced separately.  Note that some servers running Office may not have internet access, which means that auto-upgrading as well as per-user license activation may not work.
 
