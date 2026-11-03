@@ -18,7 +18,10 @@ ms.collection: M365Community
 
 The [Maturity Model for Microsoft 365](../index.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking and planning guidance.  However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
-This Practical Scenarios document covers the servicing (frequent periodic upgrades) for the Office desktop apps (Word, Excel, PowerPoint, Outlook, OneNote, Access, Publisher and any others that appear in future), including those in Microsoft 365 plans, M365 Apps for Enterprise and any other plans that include desktop-installed applications.
+This Practical Scenarios document covers the servicing (frequent periodic upgrades) for the Office desktop apps (Word, Excel, PowerPoint, Outlook, OneNote, Access and any others that appear in future), including those in Microsoft 365 plans, M365 Apps for Enterprise and any other plans that include desktop-installed applications.
+
+> [!NOTE]
+> Microsoft Publisher is retired and is no longer serviced as part of Microsoft 365. According to [Microsoft's retirement notice](https://support.microsoft.com/publisher/microsoft-publisher-will-no-longer-be-supported-after-october-2026), Microsoft 365 subscribers lose access to Publisher on or shortly after October 1, 2026, and support for perpetual versions ends on October 13, 2026. The exact timing of removal can vary while Microsoft rolls out the change. Inventory your Publisher files, identify their owners and the business-critical publications, then convert them (for example to PDF and on to Word, using the notice's guidance and bulk conversion script) and check the converted files before anyone needs to edit them.
 
 ## Introduction to Office Servicing
 
