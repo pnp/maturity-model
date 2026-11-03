@@ -49,7 +49,7 @@ _disableContribution: true
 <div class="mm-steps">
 <div class="mm-step"><span class="mm-step-num mm-bg1">1</span><h3>Start where you are</h3><p>Pick a competency you are already good at, or one where you are struggling right now. Either is a fine way in.</p><a href="competencies/microsoft365-maturity-model--competencies.md">The competencies</a></div>
 <div class="mm-step"><span class="mm-step-num mm-bg2">2</span><h3>Read that competency</h3><p>Find the level that sounds like you today, and look at what the next level up would mean for you.</p><a href="overview/microsoft365-maturity-model--intro.md#maturity-levels">What the levels mean</a></div>
-<div class="mm-step"><span class="mm-step-num mm-bg3">3</span><h3>Find your next step</h3><p>See if a practical scenario can inspire your next move, or if a practitioners call has already covered it. Someone has often been there before you.</p><a href="practical-scenarios/maturity-model-microsoft365-practical-scenarios.md">Practical scenarios</a> · <a href="overview/practitioners-calls-archive.md">Past calls</a></div>
+<div class="mm-step"><span class="mm-step-num mm-bg3">3</span><h3>Find your next step</h3><p>See if a practical scenario can inspire your next move, or if a practitioners call has already covered it. Someone has often been there before you.</p><a href="practical-scenarios/maturity-model-microsoft365-practical-scenarios.md">Practical scenarios</a> · <a href="blog/index.md">Past calls</a></div>
 </div>
 </section>
 
@@ -101,7 +101,7 @@ _disableContribution: true
 <noscript><p>See the dates in the <a href="https://aka.ms/mm4m365/ics">calendar series</a>.</p></noscript>
 </div>
 <p class="mm-more"><a class="mm-btn mm-btn-light" href="https://aka.ms/mm4m365/ics">Add the calendar series</a></p>
-<p class="mm-more mm-ev-past">Missed one? <a href="overview/practitioners-calls-archive.md">Past calls with summaries</a> · <a href="https://www.youtube.com/playlist?list=PLR9nK3mnD-OXALeeIt1nbgBcSLj3WxyBi">All recordings</a></p>
+<p class="mm-more mm-ev-past">Missed one? <a href="blog/index.md">Past calls on the blog</a> · <a href="https://www.youtube.com/playlist?list=PLR9nK3mnD-OXALeeIt1nbgBcSLj3WxyBi">All recordings</a></p>
 </section>
 
 <section class="mm-section">

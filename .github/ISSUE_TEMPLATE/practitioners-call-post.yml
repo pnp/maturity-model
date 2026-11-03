@@ -1,0 +1,99 @@
+name: "Blog post: Practitioners Call"
+description: Turn a recorded Practitioners Call into a post on the blog. Assign the issue to Copilot when it is filled in.
+title: "Blog post: <Month YYYY> – <topic>"
+labels: ["blog", "type:archive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue per recorded call. Copilot writes the post from what you put here and opens a pull request. It does not watch the video or search the web, so everything the post needs has to be in this form.
+  - type: input
+    id: date
+    attributes:
+      label: Session date
+      description: The date the call took place, not the YouTube upload date. YYYY-MM-DD.
+      placeholder: "2026-10-20"
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: The title of the session, as on the first slide.
+      placeholder: "Modern Compliance in Microsoft 365: A Maturity Model Perspective"
+    validations:
+      required: true
+  - type: input
+    id: recording
+    attributes:
+      label: Recording URL
+      placeholder: "https://www.youtube.com/watch?v=..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: competencies
+    attributes:
+      label: Competencies discussed
+      description: Shown as tags on the post and linked to the competency pages. Pick the ones the session actually covered.
+      options:
+        - label: Business Process
+        - label: Cognitive Business (AI)
+        - label: Collaboration
+        - label: Communication
+        - label: Customization & Development
+        - label: Employee Experience
+        - label: Governance, Risk & Compliance
+        - label: Infrastructure
+        - label: Management of Content
+        - label: People & Communities
+        - label: Search
+        - label: Security
+        - label: Staff & Training
+  - type: textarea
+    id: speakers
+    attributes:
+      label: Speaker(s)
+      description: One per line. Name, credentials, role and company, and a public profile link (Sessionize, LinkedIn or blog).
+      placeholder: "Joanne Klein, MVP – Founder, NexNovus – https://sessionize.com/joanne-klein"
+    validations:
+      required: true
+  - type: textarea
+    id: plugs
+    attributes:
+      label: Speaker plugs
+      description: >
+        What each speaker wants to promote: a book, blog, newsletter, podcast, product or event.
+        One per line as "Speaker – what – URL". Only include what the speaker asked for or agreed to.
+      placeholder: "Joanne Klein – Blog – https://joannecklein.com/"
+  - type: input
+    id: slides
+    attributes:
+      label: Slides
+      description: A public link to the deck. Leave empty if the deck is not shared publicly.
+  - type: textarea
+    id: transcript
+    attributes:
+      label: Transcript
+      description: >
+        On YouTube: open the video, click ...more under the title, then Show transcript. Select all, copy and paste here.
+        Keep the timestamps: they become the chapters.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links mentioned in the session
+      description: Articles, tools or resources the speakers referred to. One per line.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Corrections, things to emphasise, or things to leave out.
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Before you submit
+      options:
+        - label: The speaker has agreed to be featured with their photo and the plugs above.
+          required: true
