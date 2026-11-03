@@ -65,11 +65,15 @@ body:
         What each speaker wants to promote: a book, blog, newsletter, podcast, product or event.
         One per line as "Speaker – what – URL". Only include what the speaker asked for or agreed to.
       placeholder: "Joanne Klein – Blog – https://joannecklein.com/"
-  - type: input
+  - type: textarea
     id: slides
     attributes:
-      label: Slides
-      description: A public link to the deck. Leave empty if the deck is not shared publicly.
+      label: Presentation (PDF)
+      description: >
+        Drag the PDF of the deck into this box; GitHub uploads it and puts a link here. Not the .pptx, it is too big.
+        In PowerPoint: File > Export > Create PDF, and choose "Minimum size". Keep it under 10 MB.
+        Leave empty if the speaker does not want the deck shared.
+      placeholder: "Drop the PDF here"
   - type: textarea
     id: transcript
     attributes:
@@ -95,5 +99,5 @@ body:
     attributes:
       label: Before you submit
       options:
-        - label: The speaker has agreed to be featured with their photo and the plugs above.
+        - label: The speaker has agreed to be featured with their photo, the plugs and the slides above.
           required: true

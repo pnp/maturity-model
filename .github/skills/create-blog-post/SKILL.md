@@ -97,7 +97,10 @@ _disableAffix: true
 
 ## Presentation
 
-<a href="<slides URL>">Slides (<format>)</a>
+<div class="mm-deck">
+<object class="mm-deck-embed" data="files/<YYYY-MM-DD-slug>.pdf#view=FitH&amp;pagemode=none" type="application/pdf" aria-label="Slides: <Topic>"></object>
+<a class="mm-deck-card" href="files/<YYYY-MM-DD-slug>.pdf" download><span class="mm-deck-icon" aria-hidden="true">PDF</span><span><strong>Download the slides</strong><span>PDF, <size> MB</span></span></a>
+</div>
 
 ## About the speaker
 
@@ -118,6 +121,7 @@ _disableAffix: true
 
 - Keep a blank line after every opening `<div>` and before every closing `</div>` that wraps Markdown, or the Markdown inside is not rendered.
 - Speaker photo: save the speaker's Sessionize photo as `docs/media/speakers/<first-last>.jpg`, 240 × 240 px. Without a photo, use `<span class="mm-photo mm-avatar mm-bg1" aria-hidden="true"><Initials></span>` (and `mm-avatar mm-bg1` without `mm-photo` in the header).
+- Slides: download the PDF linked in the issue's "Presentation (PDF)" field and commit it as `docs/blog/files/<YYYY-MM-DD-slug>.pdf` (same name as the post). Never commit a .pptx. If the PDF is over 10 MB, stop and ask in the issue for a smaller export. Without a PDF, leave the whole Presentation section out.
 - Several speakers: one `mm-post-who` line and one `mm-speaker` block each. Use "About the speakers".
 
 ### Card on the blog index

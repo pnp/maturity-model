@@ -830,3 +830,12 @@ a.mm-pill:hover { background: var(--mm1); color: #fff; }
   .mm-speaker { flex-direction: column; }
 }
 @media (prefers-reduced-motion: reduce) { .mm-post-card, .mm-play { transition: none !important; } .mm-post-card:hover { transform: none; } }
+.mm-deck-card { display: flex; align-items: center; gap: 1.2em; padding: 1.2em 1.4em; border-radius: 14px; background: #fff; box-shadow: 0 2px 14px rgba(36,38,79,.09); color: var(--mm-ink) !important; text-decoration: none !important; max-width: 26em; transition: transform .18s, box-shadow .18s; }
+.mm-deck-card:hover, .mm-deck-card:focus-visible { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(36,38,79,.18); }
+.mm-deck-icon { flex: 0 0 auto; width: 3.2em; height: 4em; border-radius: 6px; background: var(--mm1); color: #fff; font-weight: 900; font-size: .85em; display: flex; align-items: flex-end; justify-content: center; padding-bottom: .5em; box-sizing: border-box; clip-path: polygon(0 0, 70% 0, 100% 22%, 100% 100%, 0 100%); }
+.mm-deck-card strong { display: block; font-size: 1.1em; }
+.mm-deck-card span span { color: #59636e; font-size: .9em; }
+@media (prefers-reduced-motion: reduce) { .mm-deck-card { transition: none !important; } .mm-deck-card:hover { transform: none; } }
+/* Slides: the PDF shown in the page on larger screens, download card always. Phones get the card only (most mobile browsers cannot show an embedded PDF). */
+.mm-deck-embed { display: block; width: 100%; aspect-ratio: 16 / 10; border: 0; border-radius: 14px; background: var(--mm-soft); box-shadow: 0 10px 30px rgba(36,38,79,.18); margin-bottom: 1.2em; }
+@media (max-width: 767px) { .mm-deck-embed { display: none; } }
