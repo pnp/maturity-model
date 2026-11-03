@@ -32,7 +32,7 @@ The Governance, Risk, and Compliance Competency is focused on helping an organiz
 
 **Risk** enables an organization to evaluate all relevant business and regulatory risks and controls and monitor mitigation actions in a structured manner.
 
-**Compliance** refers to the country/region, state or federal laws or even multi-national regulations such as GDPR regulations that an organization must follow. These regulations define what types of data must be protected, what processes are required under the legislation, and what penalties are issued to organizations that fail to comply.
+**Compliance** refers to the obligations an organization must follow. Many come from country/region, state or federal laws or multi-national regulations such as GDPR, but obligations can also come from contracts, industry standards and certifications, and the organization's own policies. Laws and regulations define what types of data must be protected, what processes are required under the legislation, and what penalties are issued to organizations that fail to comply.
 
 For Microsoft 365, this means implementing specific policies, operational processes, and technical controls to protect the data in Microsoft and cover some or all of using, storing, sharing, disclosing, erasing and destruction of data. The data should also be secured appropriately to guard against loss, theft and misuse.
 
@@ -46,9 +46,14 @@ A critical enabler of governance, risk, and compliance is **Information Architec
 
 Without a structured Information Architecture, organizations face increased risks of compliance failures, inefficient data management, and security vulnerabilities. Unstructured or ad-hoc data storage results in poor findability, high costs for eDiscovery, and an inability to meet regulatory retention and privacy obligations. By embedding IA into their compliance strategies, organizations ensure that governance is predictable, scalable, and automated—reducing risk and improving operational efficiency.
 
-Smaller organizations may only need to comply with the baseline general data protection rules that apply to every organization. Other organizations must comply with industry-specific and/ or country/region specific regulations which may overlap and/or conflict.
+Which obligations apply differs by organization, jurisdiction, industry and the data being handled. A smaller organization may face fewer requirements than a multinational in a regulated industry, but every organization needs to identify the obligations that apply to it. These typically come from several sources, which may overlap and/or conflict:
 
-Example compliance regulations are:
+- **Legal and regulatory** requirements, such as data protection, privacy, financial or sector-specific laws.
+- **Contractual** commitments to customers, partners and suppliers, such as data processing agreements or security clauses.
+- **Industry standards and certifications** the organization has adopted or must hold, such as PCI DSS or ISO 27001.
+- **Internal policies** the organization has set for itself. These are not laws, but the organization is still expected to follow them and demonstrate that it does.
+
+Example compliance regulations and standards are:
 
 - CCPA (California Consumer Privacy Act; USA)
 - GDPR (General Data Protection Regulation; Europe)
@@ -56,7 +61,7 @@ Example compliance regulations are:
 - PCI DSS (Payment Card Industry Data Security Standard; international)
 - SOX (Sarbanes–Oxley Act; US)
 
-**Compliance** is not the same as **security**, but security should be considered when building your plan as effective security is frequently a compliance requirement. Compliance requires only that the legally mandated minimum standards are met whereas data security covers all the processes, procedures and technologies that define how you look after sensitive data and guard against breaches.
+**Compliance** is not the same as **security**, but security should be considered when building your plan as effective security is frequently a compliance requirement. Compliance means meeting the legal, regulatory, contractual, standards-based and internal-policy obligations that apply to your organization ([Microsoft Purview data compliance concepts](https://learn.microsoft.com/purview/developer/data-security-concepts#data-compliance)), whereas data security covers all the processes, procedures and technologies that define how you look after sensitive data and guard against breaches.
 
 To address the gap between compliance and security many organizations also follow compliance and regulatory frameworks, such as COBIT, ISO 27001, or ITIL. These provide guidelines and best practices to meet regulatory requirements, improve processes, strengthen security, and achieve other business objectives (such as adopting a ‘cloud-first’ strategy).
 
