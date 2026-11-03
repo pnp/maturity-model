@@ -1,3 +1,5 @@
+- name: Start
+  href: start.md
 - name: Overview
   href: overview/
 - name: Competencies
