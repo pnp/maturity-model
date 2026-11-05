@@ -1,0 +1,102 @@
+name: "Practitioners Call"
+description: One issue per call, from the day the topic is set until the blog post is published.
+title: "Practitioners Call <Month YYYY>: <topic>"
+labels: ["blog", "type:archive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue per call. Create it as soon as the topic and speaker are set; only those are required.
+        Fill in the rest by editing this issue as it comes in: the speaker's plugs, the recording, the transcript and the PDF.
+        When everything is in, assign the issue to Copilot. It writes the post and opens a pull request; ask for changes there.
+        Copilot does not watch the video or search the web, so everything the post needs has to be in this issue.
+  - type: input
+    id: date
+    attributes:
+      label: Session date
+      description: The date the call took place, not the YouTube upload date. YYYY-MM-DD.
+      placeholder: "2026-10-20"
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: The title of the session, as on the first slide.
+      placeholder: "Modern Compliance in Microsoft 365: A Maturity Model Perspective"
+    validations:
+      required: true
+  - type: input
+    id: recording
+    attributes:
+      label: Recording URL
+      description: Add after the call.
+      placeholder: "https://www.youtube.com/watch?v=..."
+  - type: checkboxes
+    id: competencies
+    attributes:
+      label: Competencies discussed
+      description: Shown as tags on the post and linked to the competency pages. Pick the ones the session actually covered.
+      options:
+        - label: Business Process
+        - label: Cognitive Business (AI)
+        - label: Collaboration
+        - label: Communication
+        - label: Customization & Development
+        - label: Employee Experience
+        - label: Governance, Risk & Compliance
+        - label: Infrastructure
+        - label: Management of Content
+        - label: People & Communities
+        - label: Search
+        - label: Security
+        - label: Staff & Training
+  - type: textarea
+    id: speakers
+    attributes:
+      label: Speaker(s)
+      description: One per line. Name, credentials, role and company, and a public profile link (Sessionize, LinkedIn or blog).
+      placeholder: "Joanne Klein, MVP – Founder, NexNovus – https://sessionize.com/joanne-klein"
+    validations:
+      required: true
+  - type: textarea
+    id: plugs
+    attributes:
+      label: Speaker plugs
+      description: >
+        What each speaker wants to promote: a book, blog, newsletter, podcast, product or event.
+        One per line as "Speaker – what – URL". Only include what the speaker asked for or agreed to.
+      placeholder: "Joanne Klein – Blog – https://joannecklein.com/"
+  - type: textarea
+    id: slides
+    attributes:
+      label: Presentation (PDF)
+      description: >
+        Drag the PDF of the deck into this box; GitHub uploads it and puts a link here. Not the .pptx, it is too big.
+        In PowerPoint: File > Export > Create PDF, and choose "Minimum size". Keep it under 10 MB.
+        Leave empty if the speaker does not want the deck shared.
+      placeholder: "Drop the PDF here"
+  - type: textarea
+    id: transcript
+    attributes:
+      label: Transcript
+      description: >
+        Add after the call. On YouTube: open the video, click ...more under the title, then Show transcript. Select all, copy and paste here.
+        Keep the timestamps: they become the chapters.
+      render: text
+  - type: textarea
+    id: links
+    attributes:
+      label: Links mentioned in the session
+      description: Articles, tools or resources the speakers referred to. One per line.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Corrections, things to emphasise, or things to leave out.
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Before you assign Copilot
+      options:
+        - label: The speaker has agreed to be featured with their photo, the plugs and the slides above.
