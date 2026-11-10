@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Banner builder · Maturity Model for Microsoft 365</title>
+<!-- Competency, scenario and tool icons: Fluent UI System Icons, MIT License, Copyright (c) Microsoft Corporation. https://github.com/microsoft/fluentui-system-icons -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap">
+<style>
+/* Layout: one column workbench. Builder on top, then the two profile families it combines. */
+:root{
+  --bg:#f6f6fa; --surface:#ffffff; --fg:#24264f; --muted:#5d607f; --line:#e1e2ee; --accent:#6A6DAD;
+  --l1:#6A6DAD; --l2:#03A4EF; --l3:#F15021; --l4:#81BB04; --l5:#FEBB0A; --ink:#24264f;
+  --display:"Roboto","Segoe UI",system-ui,sans-serif; --body:"Roboto","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#15162b;--surface:#1f2140;--fg:#eceefe;--muted:#a7aac9;--line:#33365e;--accent:#9a9de0;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#15162b;--surface:#1f2140;--fg:#eceefe;--muted:#a7aac9;--line:#33365e;--accent:#9a9de0;color-scheme:dark}
+*{box-sizing:border-box}[hidden]{display:none!important}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.55;margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding-block:40px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;grid-template-columns:minmax(0,1fr);gap:56px}
+h1{font-family:var(--display);font-weight:900;font-size:clamp(2rem,4.5vw,3.2rem);line-height:1.05;margin:0 0 .3em;text-wrap:balance}
+h2{font-family:var(--display);font-weight:900;font-size:1.6rem;margin:0 0 .2em;text-wrap:balance}
+.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;font-weight:700;color:var(--accent);margin:0 0 .6em}
+.lead{max-width:62ch;color:var(--muted);margin:0}
+.sub{color:var(--muted);margin:0 0 20px;max-width:65ch}
+.builder{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end}
+.controls label{max-width:100%;min-width:0;display:grid;gap:4px;font-size:.85rem;font-weight:700;color:var(--muted)}
+select{max-width:100%}select,button{font:inherit;font-size:.95rem;padding:.55em .8em;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+button{cursor:pointer;font-weight:700;background:var(--fg);color:var(--bg);border-color:var(--fg)}
+button:focus-visible,select:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.status{font-size:.85rem;color:var(--muted);min-height:1.2em}
+.banner{width:100%;max-width:100%;height:auto;display:block;border-radius:14px;box-shadow:0 6px 24px rgba(20,22,60,.18)}
+.levels{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;align-items:end}
+.lv{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:grid}
+.lv-top{padding:14px 16px;color:#fff;display:flex;justify-content:space-between;align-items:flex-end}
+.lv-top.dark{color:var(--ink)}
+.lv-num{font-family:var(--display);font-weight:900;font-size:2.2rem;line-height:1}
+.lv-body{padding:12px 16px 16px;display:grid;gap:6px}
+.lv-body strong{font-size:1.1rem}
+.lv-body small{color:var(--muted);font-size:.82rem;line-height:1.4}
+.hex{font-variant-numeric:tabular-nums;font-size:.78rem;opacity:.9}
+.comps{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px}
+.cp{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;gap:12px;align-items:center;cursor:pointer;text-align:left;color:var(--fg);font-weight:500}
+.cp:hover{border-color:var(--accent)}
+.cp svg{flex:0 0 40px;width:40px;height:40px;border-radius:50%;background:var(--ink);padding:9px;fill:#fff}
+.eqdemo{display:flex;align-items:center;gap:20px;flex-wrap:wrap;padding:20px;border-radius:12px;background:#24264f;color:#fff}.eqdemo button{background:#fff;color:#24264f;border-color:#fff}.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(340px,100%),1fr));gap:16px}
+.note{font-size:.88rem;color:var(--muted);border-top:1px solid var(--line);padding-top:16px;max-width:80ch}
+@media (max-width:860px){.levels{grid-template-columns:1fr 1fr}}
+@media (max-width:480px){.levels{grid-template-columns:1fr}.gallery{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<p class="eyebrow">Maturity Model for Microsoft 365</p>
+<h1>Banner builder</h1>
+<p class="lead">Every level has its own color from the logo, and every competency has its own icon. A banner puts them together: the competency on the left, the level on the right. Build one below, copy or download it as SVG, and use it on a page, in a deck or on social media.</p>
+</header>
+
+<section class="builder" aria-labelledby="b-h">
+<div><h2 id="b-h">Build a banner</h2><p class="sub">Pick a type, a competency and a level. How to elevate shows two levels, from and to. Practical scenarios and tools have no level. Banners are 1200 × 300 px.</p></div>
+<div class="controls">
+<label for="selT">Type<select id="selT"><option value="competency">Competency</option><option value="elevate">How to elevate</option><option value="scenario">Practical scenario</option><option value="tools">Tools and samples</option><option value="model">The model</option></select></label>
+<label for="selC" id="wC">Competency<select id="selC"></select></label>
+<label for="selS" id="wS" hidden>Scenario<select id="selS"></select></label><label for="selX" id="wX" hidden>Tool<select id="selX"></select></label><button type="button" id="replay" hidden>Replay animation</button>
+<label for="selL" id="wL"><span id="lblL">Level</span><select id="selL"></select></label>
+<label for="selV" id="wV">Variant<select id="selV"><option value="single">Active level only</option><option value="wide">All levels, active wider</option><option value="equal">All levels, equal width</option></select></label>
+<button id="copy" type="button">Copy SVG</button><button id="dl" type="button">Download SVG</button>
+</div>
+<div id="out"></div>
+<p class="status" id="status" aria-live="polite"></p>
+</section>
+
+<section aria-labelledby="l-h">
+<h2 id="l-h">Level profiles</h2>
+<p class="sub">The five colors of the logo are the five levels, in the order of the logo’s columns: purple, blue, orange, green, yellow. The staircase shows how high the level is. The keywords are the model’s own. Only purple carries white text; the other four carry dark text, so every label passes WCAG AA contrast.</p>
+<div class="levels" id="levels"></div>
+</section>
+
+<section aria-labelledby="c-h">
+<h2 id="c-h">Competency profiles</h2>
+<p class="sub">The icons are Microsoft’s Fluent UI System Icons (MIT License), the same visual language as Microsoft 365. Competencies have no color of their own: color always means level, so the two never get mixed up. Click a competency to put it in the banner.</p>
+<div class="comps" id="comps"></div>
+</section>
+
+<section aria-labelledby="eq-h">
+<h2 id="eq-h">The equalizer</h2>
+<p class="sub">On the model banner the staircase bounces like an equalizer for about three seconds and then settles into the staircase. As a loading indicator it loops only while something loads. People who have asked their system for reduced motion see a still staircase.</p>
+<div class="eqdemo"><svg id="loader" viewBox="0 0 130 130" width="96" height="96" role="img" aria-label="Loading"></svg><span id="loadtxt">Loading…</span><button type="button" id="loadbtn">Show loading again</button></div>
+</section>
+
+<section aria-labelledby="g-h">
+<h2 id="g-h">Examples</h2>
+<p class="sub">The model, a competency, two How to elevate banners, a practical scenario and a tool. Scenarios and tools have no level, so they show the logo’s mosaic in a narrow panel and leave room for long titles.</p>
+<div class="gallery" id="gallery"></div>
+</section>
+
+<p class="note">The colors are taken from <code>media/logo.svg</code>. To add a competency, scenario or tool, add a line to <code>ICONS</code>, <code>SCENARIOS</code> or <code>TOOLS</code> at the top of the script in this file.</p>
+</div>
+<script>
+const ICONS = {"AI & Cognitive Business": ["M14.5 2c1.64 0 3 1.22 3.22 2.8a3.88 3.88 0 0 1 2.08 6.63A4 4 0 0 1 22 15v.25a4 4 0 0 1-3.37 3.95A3.75 3.75 0 0 1 12 20.5a3.75 3.75 0 0 1-6.63-1.3A4 4 0 0 1 2 15.25V15a4 4 0 0 1 2.2-3.57 3.86 3.86 0 0 1 2.08-6.64A3.25 3.25 0 0 1 12 3.17C12.6 2.46 13.5 2 14.5 2m-5 1.5c-.97 0-1.75.78-1.75 1.75v.25c0 .41-.34.75-.75.75h-.12a2.37 2.37 0 1 0 0 4.75H7c1.16 0 2.12.89 2.24 2.02l.01.23v.4a2 2 0 1 1-1.5 0v-.48A.75.75 0 0 0 7 12.5H6A2.5 2.5 0 0 0 3.5 15v.25a2.5 2.5 0 0 0 2.5 2.5c.34 0 .63.23.72.54l.03.14a2.26 2.26 0 0 0 4.5-.18v-9h-.9a2 2 0 1 1 0-1.5h.9v-2.5c0-.97-.78-1.75-1.75-1.75m8.23 9a2 2 0 0 1-.98.85v.9c0 1.24-1 2.25-2.25 2.25h-1.75v1.75a2.26 2.26 0 0 0 4.5.18l.03-.14c.1-.31.38-.54.72-.54a2.5 2.5 0 0 0 2.5-2.5V15a2.5 2.5 0 0 0-2.5-2.5zM8.5 15a.5.5 0 1 0 0 1 .5.5 0 0 0 0-1m6-11.5c-.96 0-1.75.78-1.75 1.74V15h1.75c.41 0 .75-.34.75-.75v-.9a2 2 0 1 1 2.65-2.48 2.37 2.37 0 0 0-.77-4.62H17a.75.75 0 0 1-.75-.75v-.25c0-.97-.78-1.75-1.75-1.75M16 11a.5.5 0 1 0 0 1 .5.5 0 0 0 0-1M8.5 8a.5.5 0 1 0 0 1 .5.5 0 0 0 0-1"], "Business Process": ["M5.25 3C4 3 3 4 3 5.25v2.5C3 9 4 10 5.25 10h.5v3.71q-.08.04-.13.12l-2.8 2.79a1.25 1.25 0 0 0 0 1.77l2.8 2.79c.48.49 1.28.49 1.76 0l2.8-2.8.11-.13H14v.5C14 20 15.01 21 16.25 21h2.5c1.24 0 2.25-1 2.25-2.25v-2.5c0-1.24-1-2.25-2.25-2.25h-2.5C15.01 14 14 15 14 16.25v.5H10.3q-.04-.07-.12-.13l-2.79-2.8-.13-.11v-3.7h.5C9 10 10 9 10 7.74v-2.5C10 4 9 3 7.75 3zM4.5 5.25c0-.42.33-.75.75-.75h2.5c.42 0 .75.33.75.75v2.5c0 .42-.33.75-.75.75h-2.5a.75.75 0 0 1-.75-.75zM4.06 17.5l2.44-2.44 2.44 2.44-2.44 2.44zm12.2-2h2.49c.41 0 .75.34.75.75v2.5c0 .42-.34.75-.75.75h-2.5a.75.75 0 0 1-.75-.75v-2.5c0-.41.34-.75.75-.75"], "Collaboration": ["M14.75 10c.97 0 1.75.78 1.75 1.75v4.75a4.5 4.5 0 0 1-9 0v-4.75c0-.97.79-1.75 1.75-1.75zm0 1.5h-5.5a.25.25 0 0 0-.25.25v4.75a3 3 0 0 0 6 0v-4.75a.25.25 0 0 0-.25-.25m-11-1.5h3.38q-.53.63-.62 1.5H3.75a.25.25 0 0 0-.25.25V15a2.5 2.5 0 0 0 3.08 2.43q.13.76.45 1.43Q6.55 19 6 19a4 4 0 0 1-4-4v-3.25c0-.97.78-1.75 1.75-1.75m13.12 0h3.38c.97 0 1.75.78 1.75 1.75V15a4 4 0 0 1-5.03 3.87q.32-.68.46-1.44.27.07.57.07a2.5 2.5 0 0 0 2.5-2.5v-3.25a.25.25 0 0 0-.25-.25h-2.76a2.7 2.7 0 0 0-.62-1.5M12 3a3 3 0 1 1 0 6 3 3 0 0 1 0-6m6.5 1a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m-13 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m6.5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3m6.5 1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-13 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2"], "Communication": ["M21.9 5.62q.1.32.1.64v11.48a2.25 2.25 0 0 1-2.9 2.16l-5.5-1.64A4 4 0 0 1 6 16.7V16l-2.4-.71A2.25 2.25 0 0 1 2 13.13v-2.26c0-1 .65-1.87 1.6-2.16l15.5-4.6c1.2-.36 2.45.32 2.8 1.51M7.5 16.44v.06a2.5 2.5 0 0 0 4.62 1.32zm12.04-10.9-15.5 4.61a.75.75 0 0 0-.54.72v2.26c0 .33.22.63.54.72l15.5 4.6a.75.75 0 0 0 .96-.71V6.26a.75.75 0 0 0-.96-.72"], "Customization & Development": ["M15.05 1.5a.75.75 0 0 1 1.4.5l-7.5 20.5a.75.75 0 0 1-1.4-.5zM6.2 6.22a.75.75 0 0 1 1.08 1.04L2.8 12l4.5 4.73a.75.75 0 0 1-1.08 1.04l-5-5.25a.75.75 0 0 1 0-1.04zm10.52-.02a.75.75 0 0 1 1.06.02l5 5.25c.28.3.28.75 0 1.04l-5 5.25a.75.75 0 0 1-1.08-1.04L21.2 12l-4.5-4.73a.75.75 0 0 1 .02-1.06"], "Employee Experience": ["M10.1 15.5q.09-.78.42-1.5H4.25C3.01 14 2 15 2 16.25v.58c0 .89.32 1.75.9 2.43Q5.27 22.01 10 22q2.12 0 3.77-.55l-1.21-1.21q-1.15.26-2.56.26c-2.74 0-4.7-.75-5.96-2.21-.34-.41-.54-.93-.54-1.46v-.58c0-.42.34-.75.75-.75zM10 2a5 5 0 1 1 0 10 5 5 0 0 1 0-10m0 1.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7M17.04 23a.8.8 0 0 1-.53-.22l-4.4-4.41a3.47 3.47 0 0 1 4.9-4.9l.03.03.04-.03a3.47 3.47 0 0 1 4.9 4.9l-4.4 4.4a.8.8 0 0 1-.54.23"], "Governance, Risk & Compliance": ["M3 3.75c0-.41.34-.75.75-.75h16.5a.75.75 0 0 1 0 1.5h-1.04l2.73 6.72q.06.13.06.28a3.5 3.5 0 1 1-7 0q0-.15.06-.28l2.73-6.72h-5.04v12h4a2.25 2.25 0 0 1 0 4.5h-9.5a2.25 2.25 0 0 1 0-4.5h4v-12H6.21l2.73 6.72q.06.13.06.28a3.5 3.5 0 1 1-7 0q0-.15.06-.28L4.79 4.5H3.75A.75.75 0 0 1 3 3.75m3.5 15c0 .41.34.75.75.75h9.5a.75.75 0 0 0 0-1.5h-9.5a.75.75 0 0 0-.75.75m.85-6.5h-3.7a2 2 0 0 0 3.7 0m-.22-1.5L5.5 6.74l-1.63 4.01zM18.5 13.5a2 2 0 0 0 1.85-1.25h-3.7a2 2 0 0 0 1.85 1.25m-1.63-2.75h3.26L18.5 6.74z"], "Infrastructure": ["M9.25 6a.75.75 0 0 0 0 1.5h5.5a.75.75 0 0 0 0-1.5zM8.5 17.75c0-.41.34-.75.75-.75h5.5a.75.75 0 0 1 0 1.5h-5.5a.75.75 0 0 1-.75-.75M9.25 14a.75.75 0 0 0 0 1.5h5.5a.75.75 0 0 0 0-1.5zM6 5a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v14a3 3 0 0 1-3 3H9a3 3 0 0 1-3-3zm3-1.5c-.83 0-1.5.67-1.5 1.5v14c0 .83.67 1.5 1.5 1.5h6c.83 0 1.5-.67 1.5-1.5V5c0-.83-.67-1.5-1.5-1.5z"], "Management of Content": ["M18.5 4.63V15h-1V4.25c0-1.24-1-2.25-2.25-2.25h-9C5.01 2 4 3 4 4.25v4.13c-.6.4-1 1.09-1 1.87v8.5C3 20.55 4.46 22 6.25 22h11.5c1.8 0 3.25-1.46 3.25-3.25v-1.5c0-.78-.4-1.47-1-1.87V6.75c0-.98-.63-1.81-1.5-2.12M5.5 8V4.25c0-.41.34-.75.75-.75h9c.41 0 .75.34.75.75V15h-.1q-.31 0-.55-.24l-5.6-6.04A2.3 2.3 0 0 0 8.1 8zm-1 2.25c0-.41.34-.75.75-.75H8.1q.31 0 .55.24l5.6 6.04c.43.46 1.03.72 1.65.72h2.85c.41 0 .75.34.75.75v1.5c0 .97-.78 1.75-1.75 1.75H6.25c-.97 0-1.75-.78-1.75-1.75z"], "People & Communities": ["M12 4.5A1.75 1.75 0 1 0 12 8a1.75 1.75 0 0 0 0-3.5M8.75 6.25a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0M5 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3M2 8a3 3 0 1 1 6 0 3 3 0 0 1-6 0m15.5 0a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0M19 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6M7.5 12.75c0-.97.78-1.75 1.75-1.75h5.5c.97 0 1.75.78 1.75 1.75v3.75a4.5 4.5 0 1 1-9 0zm1.75-.25a.25.25 0 0 0-.25.25v3.75a3 3 0 1 0 6 0v-3.75a.25.25 0 0 0-.25-.25zm-2.64-.52q-.1.36-.11.77v.81l-2.81.75a.25.25 0 0 0-.18.31l.71 2.66a3 3 0 0 0 3.16 2.2q.48.75 1.15 1.3a4.5 4.5 0 0 1-5.76-3.12l-.71-2.65c-.25-.94.3-1.9 1.24-2.14zm8.86 8.8.25.07a4.5 4.5 0 0 0 5.5-3.19l.72-2.65c.25-.94-.3-1.9-1.24-2.14l-3.31-.9q.1.38.11.78v.81l2.82.75c.13.04.2.18.17.31l-.7 2.66a3 3 0 0 1-3.17 2.2q-.48.75-1.15 1.3"], "Search": ["M16.1 17.16a8 8 0 1 1 1.06-1.06l4.62 4.62a.75.75 0 1 1-1.06 1.06zM17.5 11a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0"], "Security": ["M12 1a5 5 0 0 1 5 5v2.01c1.68.13 3 1.53 3 3.24v7.5c0 1.8-1.46 3.25-3.25 3.25h-9.5A3.25 3.25 0 0 1 4 18.75v-7.5a3.25 3.25 0 0 1 3-3.24V6a5 5 0 0 1 5-5M7.25 9.5c-.97 0-1.75.78-1.75 1.75v7.5c0 .97.78 1.75 1.75 1.75h9.5c.97 0 1.75-.78 1.75-1.75v-7.5c0-.97-.78-1.75-1.75-1.75zM12 13.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5M12 2.5A3.5 3.5 0 0 0 8.5 6v2h7V6A3.5 3.5 0 0 0 12 2.5"], "Staff & Training": ["M9.9 3.7a3.9 3.9 0 0 1 4.2 0l8.05 5.17a.75.75 0 0 1 .01 1.26L19 12.19v5.56q0 .25-.15.45l-.01.02-.11.13q-.11.14-.32.33c-.28.27-.7.62-1.25.96A9.7 9.7 0 0 1 12 21a9.7 9.7 0 0 1-5.16-1.36 7 7 0 0 1-1.69-1.44 1 1 0 0 1-.15-.45V12.2l-2-1.3v5.36a.75.75 0 1 1-1.5 0V9.5q.02-.42.36-.64zm4.22 11.68a3.9 3.9 0 0 1-4.24 0l-3.38-2.2v4.29l.13.13q.31.32 1 .76A8 8 0 0 0 12 19.5a8 8 0 0 0 4.37-1.14 6 6 0 0 0 1.13-.89v-4.3zm-.84-10.42c-.78-.5-1.78-.5-2.56 0L3.63 9.51l7.07 4.62c.79.51 1.81.51 2.6 0l7.07-4.62z"]};
+const LEVELS = [
+ {n:100,name:"Initial",kw:"Ad hoc, reactive, uncontrolled, chaotic, unstable",c:"#6A6DAD",dark:false},
+ {n:200,name:"Managed",kw:"Routine, legacy, firefighting, variable, personally managed",c:"#03A4EF",dark:true},
+ {n:300,name:"Defined",kw:"Documented, policy-driven, planned, controlled, stable",c:"#F15021",dark:true},
+ {n:400,name:"Predictable",kw:"Productive, interactive, responsive, enhanced, effective, adaptable, quality",c:"#81BB04",dark:true},
+ {n:500,name:"Optimizing",kw:"Optimal, systematic, statistical, improvement-focus, automated, assured, proactive",c:"#FEBB0A",dark:true}];
+const SCENARIOS=["Implementing Microsoft 365 Copilot Organization-Wide","Knowledge Management","Enhancing Brand Management","Teams Development","Servicing Microsoft 365 Apps","Microsoft 365 Service Change Management","Microsoft 365 Service Health Management"];
+const TOOLS=["How to run a workshop","Workshop workbooks","Slides and decks","Maturity Model one-pager"];
+const TOOL_ICON=["M7 6.25V7H4.25C3.01 7 2 8 2 9.25v8.5C2 18.99 3 20 4.25 20h15.5c1.24 0 2.25-1.01 2.25-2.25v-8.5C22 8.01 21 7 19.75 7H17v-.75C17 5.01 16 4 14.75 4h-5.5C8.01 4 7 5.01 7 6.25m2.25-.75h5.5c.41 0 .75.34.75.75V7h-7v-.75c0-.41.34-.75.75-.75M7 8.5h12.75c.41 0 .75.34.75.75v2.25h-3v-.75a.75.75 0 0 0-1.5 0v.75H8v-.75a.75.75 0 0 0-1.5 0v.75h-3V9.25c0-.41.34-.75.75-.75zm9 4.5v1.25a.75.75 0 0 0 1.5 0V13h3v4.75c0 .41-.34.75-.75.75H4.25a.75.75 0 0 1-.75-.75V13h3v1.25a.75.75 0 0 0 1.5 0V13z"];
+const SCEN_ICON=["M12 2.001a7.25 7.25 0 0 1 7.25 7.25c0 2.096-.9 4.02-2.663 5.742a.75.75 0 0 0-.175.265l-.032.103-1.13 4.895a2.25 2.25 0 0 1-2.02 1.737l-.173.007h-2.114a2.25 2.25 0 0 1-2.147-1.577l-.045-.167-1.13-4.895a.75.75 0 0 0-.206-.368c-1.68-1.64-2.577-3.463-2.659-5.444l-.006-.298.004-.24A7.25 7.25 0 0 1 12 2.002m2.115 16.498H9.884l.329 1.42a.75.75 0 0 0 .627.573l.103.008h2.114a.75.75 0 0 0 .7-.483l.03-.099zM12 3.501a5.75 5.75 0 0 0-5.746 5.53l-.004.22.007.277c.076 1.563.8 3.02 2.206 4.392.264.258.46.576.571.926l.049.178.455 1.975h4.923l.458-1.976a2.25 2.25 0 0 1 .493-.97l.127-.133c1.404-1.373 2.128-2.828 2.204-4.392l.007-.277-.004-.22A5.75 5.75 0 0 0 12 3.5"];
+const INK="#24264f", FONT="Roboto, Segoe UI, Arial, sans-serif";
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;");
+const tc=l=>l.dark?INK:"#ffffff";
+function stairs(x,y,size,gap,lit,onDark){let s="";for(let col=0;col<5;col++){for(let row=0;row<=col;row++){const on=col<lit;const fill=onDark?"#ffffff":INK;const op=on?(row===col?1:.55):.18;s+=`<rect x="${x+col*(size+gap)}" y="${y+(4-row)*(size+gap)}" width="${size}" height="${size}" rx="${size*.15}" fill="${fill}" fill-opacity="${op}"/>`}}return s}
+function mosaic(x,y,size,gap){const ord=[0,1,2,3,4],tint=[1,.85,.7,.55,.4];let s="";ord.forEach((li,col)=>{for(let row=0;row<5;row++){s+=`<rect x="${x+col*(size+gap)}" y="${y+row*(size+gap)}" width="${size}" height="${size}" fill="${LEVELS[li].c}" fill-opacity="${tint[row]}"/>`}});return s}
+function wrap(text,fs,mw){const max=Math.max(8,Math.floor((mw||420)/(fs*.56)));const words=text.split(" ");const lines=[];let cur="";words.forEach(w=>{const t=cur?cur+" "+w:w;if(t.length>max&&cur){lines.push(cur);cur=w}else cur=t});if(cur)lines.push(cur);return lines}
+function titleBlock(text,mw){mw=mw||430;const k=mw/430;let fs=text.length<=12*k?58:text.length<=18*k?50:46;let lines=wrap(text,fs,mw-10);
+ if(lines.length===2){const words=text.split(" ");let best=1,bl=1e9;for(let k=1;k<words.length;k++){const mx=Math.max(words.slice(0,k).join(" ").length,words.slice(k).join(" ").length);if(mx<bl){bl=mx;best=k}}lines=[words.slice(0,best).join(" "),words.slice(best).join(" ")];if(Math.max(...lines.map(l=>l.length))*fs*.56>mw){fs=40}}
+ if(lines.length>2){fs=36;lines=wrap(text,fs,mw-10)}
+ const lh=fs+4, total=lines.length*lh, top=150-total/2+fs*.78+12;
+ return {fs,lines,top,svg:lines.map((t,i)=>`<text x="210" y="${top+i*lh}" font-size="${fs}" font-weight="900" fill="#fff">${esc(t)}</text>`).join("")}}
+function left(eyebrow,title,paths,marker,mw){const tb=titleBlock(title,mw);const ey=tb.top-tb.fs*.78-18;
+ return `<rect width="1200" height="300" fill="${INK}"/>
+<g opacity=".07">${stairs(20,-30,30,6,5,true)}</g>
+<circle cx="115" cy="150" r="62" fill="#fff"/>
+<g transform="translate(79 114) scale(3)" fill="${INK}">${paths.map(d=>`<path d="${d}"/>`).join("")}</g>
+${marker?`<rect x="210" y="${ey-13}" width="13" height="13" rx="2" fill="${marker}"/>`:""}
+<text x="${marker?233:210}" y="${ey}" font-size="16" font-weight="700" letter-spacing="3" fill="#fff" fill-opacity=".8">${eyebrow}</text>
+${tb.svg}
+<text x="210" y="272" font-size="15" font-weight="500" fill="#fff" fill-opacity=".65">Maturity Model for Microsoft 365</text>`}
+const SK=60;
+function cxAt(m,w,y){return m+w/2+SK*(0.5-y/300)}
+function arrow(x,y){return `<circle cx="${x}" cy="${y}" r="22" fill="#fff" stroke="${INK}" stroke-opacity=".15"/><path d="M${x-9} ${y}h16m-6-7 7 7-7 7" fill="none" stroke="${INK}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>`}
+function slices(active,variant,id){const M0=730,W=470;const n=active.length;
+ const widths=variant==="equal"?LEVELS.map(()=>W/5):LEVELS.map((_,i)=>active.includes(i)?(n>1?162:166):(W-(n>1?324:166))/(5-n));
+ let m=M0, out=`<clipPath id="cp${id}"><rect x="0" y="0" width="1200" height="300"/></clipPath><polygon points="${M0+SK/2},0 1200,0 1200,300 ${M0-SK/2},300" fill="#ffffff"/><g clip-path="url(#cp${id})">`, ends=[];
+ LEVELS.forEach((l,i)=>{const w=widths[i], on=active.includes(i), t=tc(l), last=i===4, ww=last?w+SK:w;
+  out+=`<polygon points="${m+SK/2},0 ${m+ww+SK/2+1},0 ${m+ww-SK/2+1},300 ${m-SK/2},300" fill="${l.c}" fill-opacity="${on?1:.35}"/>`;
+  if(on){ if(variant==="equal"){out+=`<text x="${cxAt(m,w,150)}" y="162" text-anchor="middle" font-size="36" font-weight="900" fill="${t}">${l.n}</text><text x="${cxAt(m,w,190)}" y="196" text-anchor="middle" font-size="15" font-weight="700" fill="${t}">${l.name}</text>`}
+   else {const f=n>1?50:66;if(n===1)out+=`<text x="${cxAt(m,w,85)}" y="92" text-anchor="middle" font-size="19" font-weight="700" letter-spacing="3" fill="${t}">LEVEL</text>`;out+=`<text x="${cxAt(m,w,155)}" y="${n>1?170:180}" text-anchor="middle" font-size="${f}" font-weight="900" fill="${t}">${l.n}</text><text x="${cxAt(m,w,215)}" y="${n>1?212:222}" text-anchor="middle" font-size="${n>1?20:23}" font-weight="700" fill="${t}">${l.name}</text>`}}
+  else {out+=`<text x="${cxAt(m,w,variant==="equal"?150:152)}" y="${variant==="equal"?162:160}" text-anchor="middle" font-size="${variant==="equal"?36:(n>1?20:24)}" font-weight="900" fill="${INK}" fill-opacity=".85">${l.n}</text>`}
+  ends[i]=m+w; m+=w});
+ out+="</g>"; if(n>1){const ay=variant==="equal"?245:150;out+=arrow(ends[active[0]]+SK/2-SK*ay/300,ay)} return out}
+function singleOne(i){const L=LEVELS[i],t=tc(L);
+ return `<polygon points="760,0 1200,0 1200,300 700,300" fill="${L.c}"/>
+<text x="790" y="92" font-size="19" font-weight="700" letter-spacing="3" fill="${t}">LEVEL</text>
+<text x="785" y="190" font-size="104" font-weight="900" fill="${t}">${L.n}</text>
+<text x="790" y="240" font-size="34" font-weight="700" fill="${t}">${L.name}</text>
+<g>${stairs(1010,78.5,27.3,6,i+1,!L.dark)}</g>`}
+function singleTwo(a,b){const A=LEVELS[a],B=LEVELS[b];const mid=965;
+ return `<polygon points="760,0 ${mid+30},0 ${mid-30},300 700,300" fill="${A.c}"/><polygon points="${mid+30},0 1200,0 1200,300 ${mid-30},300" fill="${B.c}"/>
+<text x="${cxAt(730,235,85)}" y="92" text-anchor="middle" font-size="19" font-weight="700" letter-spacing="3" fill="${tc(A)}">FROM</text>
+<text x="${cxAt(730,235,155)}" y="182" text-anchor="middle" font-size="76" font-weight="900" fill="${tc(A)}">${A.n}</text>
+<text x="${cxAt(730,235,215)}" y="226" text-anchor="middle" font-size="24" font-weight="700" fill="${tc(A)}">${A.name}</text>
+<text x="${cxAt(965,235,85)}" y="92" text-anchor="middle" font-size="19" font-weight="700" letter-spacing="3" fill="${tc(B)}">TO</text>
+<text x="${cxAt(965,235,155)}" y="182" text-anchor="middle" font-size="76" font-weight="900" fill="${tc(B)}">${B.n}</text>
+<text x="${cxAt(965,235,215)}" y="226" text-anchor="middle" font-size="24" font-weight="700" fill="${tc(B)}">${B.name}</text>
+${arrow(mid,150)}`}
+function eqStair(x,y,size,gap,id,anim,steps){const u=size+gap,H=5*u-gap;let s="";
+ const seq=[[2,4,1,5,3,2,4,5,3,1],[4,2,5,3,1,4,5,2,3,2],[1,5,3,4,2,5,2,4,1,3],[3,1,4,2,5,3,1,5,4,4],[5,3,2,5,4,1,3,2,5,5]];
+ for(let c=0;c<5;c++){const fin=c+1, ys=h=>y+H-h*u+gap;
+  s+=`<clipPath id="eq${id}c${c}"><rect x="${x+c*u-1}" y="${ys(fin)}" width="${size+2}" height="${H+gap}">`;
+  if(anim){const v=(steps||seq[c]).concat([fin]).map(ys).join(";");s+=`<animate attributeName="y" values="${v}" dur="${anim}s" calcMode="discrete" fill="freeze" begin="0s"/>`}
+  s+=`</rect></clipPath><g clip-path="url(#eq${id}c${c})">`;
+  for(let r=0;r<5;r++){s+=`<rect x="${x+c*u}" y="${y+(4-r)*u}" width="${size}" height="${size}" rx="${size*.12}" fill="${LEVELS[c].c}"/>`}
+  s+=`</g>`}
+ return s}
+const REDUCED=matchMedia("(prefers-reduced-motion: reduce)").matches;
+function narrowPanel(fill,inner){return `<polygon points="985,0 1200,0 1200,300 925,300" fill="${fill}"/>${inner}`}
+let uid=0;
+function banner(o){const id=++uid; let L,R,label;
+ if(o.type==="scenario"||o.type==="tools"){const sc=o.type==="scenario",t=sc?o.scenario:o.tool;L=left(sc?"PRACTICAL SCENARIO":"TOOLS AND SAMPLES",t,sc?SCEN_ICON:TOOL_ICON,null,690);
+  R=narrowPanel("#ffffff",mosaic(1030,85,22,4));label=`${sc?"Practical scenario":"Tools and samples"}: ${t}`}
+ else if(o.type==="model"){L=`<rect width="1200" height="300" fill="${INK}"/><g opacity=".07">${stairs(20,-30,30,6,5,true)}</g>
+<text x="80" y="100" font-size="16" font-weight="700" letter-spacing="3" fill="#fff" fill-opacity=".8">A PNP COMMUNITY MODEL</text>
+<text x="80" y="160" font-size="54" font-weight="900" fill="#fff">Maturity Model</text>
+<text x="80" y="218" font-size="54" font-weight="900" fill="#fff">for Microsoft 365</text>
+<text x="80" y="262" font-size="18" font-weight="500" fill="#fff" fill-opacity=".7">Five levels. Thirteen competencies. One shared language.</text>`;
+  R=eqStair(860,30,40,7,id,REDUCED?0:3.2);label="Maturity Model for Microsoft 365"}
+ else if(o.type==="elevate"){const a=o.lv,b=o.lv+1;L=left("HOW TO ELEVATE",o.comp,ICONS[o.comp],LEVELS[b].c);
+  R=o.variant==="single"?singleTwo(a,b):slices([a,b],o.variant,id);label=`How to elevate ${o.comp}, from level ${LEVELS[a].n} to ${LEVELS[b].n}`}
+ else {L=left("COMPETENCY",o.comp,ICONS[o.comp],LEVELS[o.lv].c);R=o.variant==="single"?singleOne(o.lv):slices([o.lv],o.variant,id);label=`${o.comp}, level ${LEVELS[o.lv].n} ${LEVELS[o.lv].name}`}
+ return `<svg class="banner" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="${esc(label)}" font-family="${FONT}">${L}${R}</svg>`}
+const $=id=>document.getElementById(id);
+const selT=$("selT"),selV=$("selV"),selC=$("selC"),selL=$("selL"),selS=$("selS"),out=$("out"),status=$("status");
+Object.keys(ICONS).forEach(k=>selC.add(new Option(k,k)));
+SCENARIOS.forEach(k=>selS.add(new Option(k,k)));const selX=$("selX");TOOLS.forEach(k=>selX.add(new Option(k,k)));selX.addEventListener("change",render);$("replay").addEventListener("click",render);
+function fillLevels(){const cur=+selL.value||0;selL.innerHTML="";if(selT.value==="elevate"){LEVELS.slice(0,4).forEach((l,i)=>selL.add(new Option(`${l.n} → ${LEVELS[i+1].n}`,i)));selL.value=String(Math.min(cur,3))}else{LEVELS.forEach((l,i)=>selL.add(new Option(l.n+" "+l.name,i)));selL.value=String(cur)}}
+selC.value="Security"; selL.innerHTML="";fillLevels();selL.value="2";
+function sync(){const t=selT.value,noLv=["scenario","tools","model"].includes(t);$("wC").hidden=noLv;$("wS").hidden=t!=="scenario";$("wX").hidden=t!=="tools";$("replay").hidden=t!=="model"||REDUCED;$("wL").hidden=noLv;$("wV").hidden=noLv;$("lblL").firstChild.textContent=t==="elevate"?"From → to":"Level"}
+function render(){sync();out.innerHTML=banner({type:selT.value,comp:selC.value,scenario:selS.value,tool:$("selX").value,lv:+selL.value,variant:selV.value});status.textContent=""}
+selT.addEventListener("change",()=>{fillLevels();render()});[selV,selC,selL,selS].forEach(e=>e.addEventListener("change",render));render();
+$("copy").addEventListener("click",()=>{const s=out.innerHTML.replace(' class="banner"','');
+ if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(s).then(()=>status.textContent="SVG copied. Paste it into PowerPoint or a file.",()=>fallback(s))}else fallback(s)});
+$("dl").addEventListener("click",()=>{const s='<?xml version="1.0" encoding="UTF-8"?>\n'+out.innerHTML.replace(' class="banner"','');const a=document.createElement("a");const slug=x=>x.toLowerCase().replace(/&/g,"and").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,""),t=selT.value,lv=+selL.value,v=selV.value,sfx=v==="wide"?"":"-"+v,name=t==="model"?"model":t==="scenario"?"scenario-"+slug(selS.value):t==="tools"?"tool-"+slug($("selX").value):t==="elevate"?`elevate-${slug(selC.value)}-${LEVELS[lv].n}-${LEVELS[lv+1].n}${sfx}`:`competency-${slug(selC.value)}-${LEVELS[lv].n}${sfx}`;a.href=URL.createObjectURL(new Blob([s],{type:"image/svg+xml"}));a.download=name+".svg";document.body.appendChild(a);a.click();a.remove();status.textContent="Downloaded "+name+".svg"});
+function fallback(s){status.textContent="Copying was blocked here. Select and copy the text below.";const t=document.createElement("textarea");t.value=s;t.rows=4;t.style.width="100%";out.appendChild(t);t.select()}
+$("levels").innerHTML=LEVELS.map((l,i)=>`<div class="lv"><div class="lv-top${l.dark?" dark":""}" style="background:${l.c};min-height:${70+i*22}px"><span class="lv-num">${l.n}</span><svg viewBox="0 0 150 150" width="58" height="58" aria-hidden="true">${stairs(0,0,24,6,i+1,!l.dark)}</svg></div><div class="lv-body"><strong>${l.name}</strong><small>${l.kw}</small><span class="hex">${l.c} · text ${l.dark?"dark":"white"}</span></div></div>`).join("");
+$("comps").innerHTML=Object.keys(ICONS).map(k=>`<button class="cp" type="button" data-c="${esc(k)}"><svg viewBox="0 0 24 24" aria-hidden="true">${ICONS[k].map(d=>`<path d="${d}"/>`).join("")}</svg><span>${esc(k)}</span></button>`).join("");
+$("comps").addEventListener("click",e=>{const b=e.target.closest(".cp");if(!b)return;if(!["competency","elevate"].includes(selT.value)){selT.value="competency";fillLevels()}selC.value=b.dataset.c;render();$("b-h").scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})});
+function loader(){const L=$("loader");if(REDUCED){L.innerHTML=eqStair(5,5,20,4,"L",0);$("loadtxt").textContent="Loading…";return}
+ let s=eqStair(5,5,20,4,"L",0);
+ const seq=[[2,4,1,5,3],[4,2,5,3,1],[1,5,3,4,2],[3,1,4,2,5],[5,3,2,1,4]];let html="";const u=24,H=5*u-4;
+ L.innerHTML=s;L.querySelectorAll("clipPath rect").forEach((r,c)=>{const ys=h=>5+H-h*u+4;const a=document.createElementNS("http://www.w3.org/2000/svg","animate");a.setAttribute("attributeName","y");a.setAttribute("values",seq[c].map(ys).join(";"));a.setAttribute("dur","1.2s");a.setAttribute("calcMode","discrete");a.setAttribute("repeatCount","indefinite");r.appendChild(a)});
+ $("loadtxt").textContent="Loading…";clearTimeout(window._lt);window._lt=setTimeout(()=>{L.innerHTML=eqStair(5,5,20,4,"L",0);$("loadtxt").textContent="Done"},3000)}
+$("loadbtn").addEventListener("click",loader);loader();
+$("gallery").innerHTML=[{type:"model"},{type:"tools",tool:"Workshop workbooks"},{type:"competency",comp:"Collaboration",lv:1,variant:"wide"},{type:"elevate",comp:"Staff & Training",lv:1,variant:"single"},{type:"elevate",comp:"Security",lv:2,variant:"wide"},{type:"scenario",scenario:"Implementing Microsoft 365 Copilot Organization-Wide"}].map(banner).join("");
+</script>
+</body>
+</html>
