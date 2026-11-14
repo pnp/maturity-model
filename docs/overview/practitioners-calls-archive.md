@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Practitioners Calls Archive
-ms.date: 9/22/2026
+ms.date: 11/14/2026
 author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -30,6 +30,7 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ## Table of Contents
 
+- [October 2026 - Modern Compliance in Microsoft 365 – A Maturity Model Perspective](#modern-compliance-in-microsoft-365--a-maturity-model-perspective)
 - [September 2026 - Revisiting the Governance, Risk, & Compliance Competency](#revisiting-the-governance-risk--compliance-competency)
 - [June 2026 - Revisiting the People and Communities Competency](#revisiting-the-people-and-communities-competency)
 - [May 2026 - Frontier Firm: Maturity Model Perspective](#frontier-firm-maturity-model-perspective)
@@ -50,6 +51,26 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 ---
 
 ## Practitioners Calls Archive
+
+### Modern Compliance in Microsoft 365 – A Maturity Model Perspective
+
+October 2026 | Recording: <a href="https://www.youtube.com/watch?v=mLk3M359RZ0" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/joannecklein/" target="_blank">Joanne Klein, MVP</a>
+
+**Summary:** Joanne Klein picked up where Nikki Chapple left off in September. Nikki proposed keeping Governance, Risk & Compliance as a cross-cutting competency built on four connected capabilities; Joanne, who works with customers on GRC every day, showed what happens next: how the specialist competencies actually deliver a GRC outcome. Deliberately not a product session — elevating away from the control details was the point.
+
+Her foundation is an ownership split she finds missing in most organizations. GRC defines the outcome and the guardrails: policy intent, risk appetite, exception authority, and — defined at the start, never assembled after the fact — the evidence that will show the outcome is achieved. The specialist competencies design, implement and operate the controls, produce that evidence through their operational processes, and GRC evaluates whether the residual risk remains acceptable. What specialists learn operating a control feeds back and changes the requirements. AI and agents are not a separate capability in this picture; they cut across the same four.
+
+The running example was a requirement she sees at every customer: enable external collaboration while protecting sensitive information. A single legitimate scenario — sharing a sensitive renewal package with an implementation partner — pulled in collaboration to assign the site owner and guest sponsor, management of content to classify the files and confirm their business purpose, security to verify the guest identity and set access conditions, and business process for a governed exception path. Only once accountability and risk exposure were established did the technical controls appear: a confidential-external label, DLP on the external share, a 30-day access expiry, seven-year retention. Deciding what counts as sensitive is a business decision, not an IT job — in her experience GRC efforts led by IT alone are exactly the ones that struggle.
+
+Her sharpest point was about evidence. Enabling a control, even with the best intentions, has nothing to do with maturity — maturity is in how the control is owned, operated, evidenced and improved. She distinguished three levels: configuration evidence (the policy exists — where most organizations stop), operating evidence (the label was applied, the DLP alert fired), and outcome evidence (only the approved partner retained access, and guest access ended with the engagement). Outcome evidence is the bridge from level 300 to 400, which is where her regulated customers need to be — and the same organization can sit at 400 for information protection and 100 for records management. She also argued that staff and training is the most neglected row in the GRC table: policy tips, clear label descriptions and the why behind controls belong in the rollout from the start, not after the fact.
+
+The discussion made it concrete. Pia asked how to reach business leaders who do not yet see GRC as their requirement; Joanne's answer was a table of typical GRC outcomes written in business language, with the technical controls shown only to the admins. Amy described building exactly that in her organization — a governance committee of nominated "vanguards" with tiered, visible consequences — and Simon pressed on how to prove outcomes without waiting for an incident: report on the audit log over time, review label overrides and their business justifications, and put what cannot be proven in the risk register.
+
+`Governance, Risk & Compliance`, `Management of Content`, `Staff & Training` | [→ Back to top](#table-of-contents)
+
+---
 
 ### Revisiting the Governance, Risk, & Compliance Competency
 
