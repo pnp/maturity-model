@@ -1,0 +1,8 @@
+- name: All posts
+  href: index.md
+- name: "Modern Compliance in Microsoft 365: A Maturity Model Perspective"
+  href: 2026-10-20-modern-compliance-in-microsoft-365.md
+- name: "Revisiting the Governance, Risk, & Compliance Competency"
+  href: 2026-09-15-revisiting-governance-risk-compliance.md
+- name: "Revisiting the People and Communities Competency"
+  href: 2026-06-16-revisiting-people-and-communities.md

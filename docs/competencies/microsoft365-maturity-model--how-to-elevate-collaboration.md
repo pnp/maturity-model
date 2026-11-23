@@ -150,7 +150,7 @@ At the 400 level, a more strategic view of platform apps and services leads to a
 - With the steering committee, determine a feedback cycle to continually review existing practices to support more effective collaboration. New releases and improvements to the collaboration guidelines are discussed throughout the year to ensure the newest Microsoft 365 releases and their impacts to existing processes are considered.
 - There is an increased focus on using existing metadata to present content in a search-based manner, reducing the manual work of content curation and decreasing the likelihood of duplication of content.
 
-For example, you may being exploring automation of metadata and centralized knowledge management through tools like [Topics](/microsoft-365/knowledge/topic-experiences-overview) to create topic cards, automatically surface related documents, and showcase subject matter experts.
+For example, you may begin centralizing knowledge management around curated, authoritative content in SharePoint or other governed repositories, with named content owners and a regular review process, and make that content findable through Microsoft Search. Viva Topics, which previously generated topic cards and surfaced related documents and experts, was [retired on February 22, 2025](https://learn.microsoft.com/microsoft-365/topics/changes-coming-to-topics). If you plan to use Microsoft 365 Copilot to surface related content and subject matter experts, address its licensing, configuration, permissions and data readiness first.
 
 ### Content 400 to 500
 

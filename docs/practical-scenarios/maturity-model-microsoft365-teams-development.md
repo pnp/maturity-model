@@ -27,7 +27,7 @@ The Microsoft Teams platform provides different development opportunities:
 - **Message extensions**: interact with your solution when writing a message in Microsoft Teams
 - **Meeting extensions**: apps that are part of the meeting experience
 - **Personal apps**: a dedicated tab
-- **Webhooks & Connectors**: communication options for external apps
+- **Webhooks**: communication options for external apps. Office 365 Connectors in Teams, including connector-based incoming webhooks, were [retired in May 2026](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/) and no longer work. Use [Workflows-based incoming webhooks](https://support.microsoft.com/office/create-incoming-webhooks-with-workflows-for-microsoft-teams-8ae491c7-0394-4861-ba59-055e33f75498), which still work, or a bot instead.
 - **Microsoft Graph**: work and interact with the Microsoft Teams data in any other solution
 - **Adaptive cards**: organize information and provide users with interaction options without leaving their chat experience.
 - **Task modules**: Modal pop-up experience in the Microsoft Teams Client

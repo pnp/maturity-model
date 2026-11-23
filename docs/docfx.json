@@ -8,7 +8,8 @@
           "**/*.yml"
         ],
         "exclude": [
-          "_site/**"
+          "_site/**",
+          "media/**"
         ]
       }
     ],

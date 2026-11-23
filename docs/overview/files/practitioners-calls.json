@@ -1,0 +1,56 @@
+{
+  "_about": "Upcoming Maturity Model for Microsoft 365 practitioners calls, shown on the start page. One entry per call: start time in UTC (10:00 New York time), title and speaker. Leave title null while the topic is open; the page then invites suggestions. Calls run on the third Tuesday of the month, except July, August and December.",
+  "invite": "https://aka.ms/mm4m365/ics",
+  "sessions": [
+    {
+      "start": "2026-11-17T15:00:00Z",
+      "title": "AI at Work: MM4M365 Edition",
+      "speaker": "The MM4M365 core team"
+    },
+    {
+      "start": "2027-01-19T15:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-02-16T15:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-03-16T14:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-04-20T14:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-05-18T14:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-06-15T14:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-09-21T14:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-10-19T14:00:00Z",
+      "title": null,
+      "speaker": null
+    },
+    {
+      "start": "2027-11-16T15:00:00Z",
+      "title": null,
+      "speaker": null
+    }
+  ]
+}

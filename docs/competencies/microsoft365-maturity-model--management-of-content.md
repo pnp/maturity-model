@@ -443,7 +443,6 @@ Burgeoning automation and AI make achieving high levels of maturity realistic fo
 - SharePoint Premium
 - Stream
 - Teams
-- Topics
 
 ## Resources
 
