@@ -106,8 +106,6 @@ AI has no direct, measurable impact, which may mean that disruption, when it com
 - Identify processes with significant repetition where human action could be replaced by AI. At the same time, identify instances where content generation might get a jump start from using AI.
 - Begin evaluating the AI capabilities which are available in in Microsoft 365.
 
-![Level 100 to 200](../media/banners/elevate-ai-and-cognitive-business-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-ai-and-cognitive-business-200-single.svg)
@@ -150,8 +148,6 @@ At this level, Cognitive business remains the domain of staff, with a few ‘mav
 
 To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organization to transform quickly. Look at departments which provide services to the rest of the organization such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins'; and success stories across the organizations to show the value of Cognitive Business solutions.
 Additionally, to be able to move to Level 300, your data needs to be accessible by the Embedded AI models and secured to ensure that the right people have access to the right information when using AI.
-
-![Level 200 to 300](../media/banners/elevate-ai-and-cognitive-business-200-300-single.svg)
 
 ### Level 300 - Defined
 
@@ -206,8 +202,6 @@ Effective practice, skills and learning need to be identified and shared togethe
 The organization would publish and enforce a  Responsible AI policy and framework.
 There should be processes for capturing new AI development ideas. This might include where AI might be allowed agency to act without human initiation, but with oversight.
 Staff will be expected to use AI tools and productivity gains will be measured.
-
-![Level 300 to 400](../media/banners/elevate-ai-and-cognitive-business-300-400-single.svg)
 
 ### Level 400 - Predictable
 
@@ -266,8 +260,6 @@ Staff and processes are productive, though there may be concerns about resilienc
 - Many AI-supported processes may be at a departmental level, so consider places where AI can monitor other AI-driven processes
 - Think of ways to use AI to monitor metrics and make process suggestions in real time
 - Capture knowledge gained in cognitive business work and contribute to the organization's knowledge bases
-
-![Level 400 to 500](../media/banners/elevate-ai-and-cognitive-business-400-500-single.svg)
 
 ### Level 500 - Optimizing
 

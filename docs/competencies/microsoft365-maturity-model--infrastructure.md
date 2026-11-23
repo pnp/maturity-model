@@ -108,8 +108,6 @@ When operating at Level 100, processes are not defined so there is little consis
 
 There are also likely security vulnerabilities as authentication and authorization isn't standardized, and platform security functionality is not likely to be taken advantage of. Files are routinely duplicated, file storage lacks effective structure, search is ineffective.
 
-![Level 100 to 200](../media/banners/elevate-infrastructure-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-infrastructure-200-single.svg)
@@ -173,8 +171,6 @@ Regular processes are beginning to follow a regular routine and many of them are
 
 Security becomes more of a concern as user adoption grows, custom features and functionality increases, and citizen development enters the mix. Passwords are stored in some way and service accounts are beginning to be used for processes that cross boundaries.
 
-![Level 200 to 300](../media/banners/elevate-infrastructure-200-300-single.svg)
-
 ### Level 300 - Defined
 
 ![Level 300](../media/banners/competency-infrastructure-300-single.svg)
@@ -231,8 +227,6 @@ Process management is becoming well defined, documented, and enforced. Users kno
 
 Security is a priority and regular testing leads to proactive tasks to ensure that vulnerabilities are minimal and managed.
 
-![Level 300 to 400](../media/banners/elevate-infrastructure-300-400-single.svg)
-
 ### Level 400 - Predictable
 
 ![Level 400](../media/banners/competency-infrastructure-400-single.svg)
@@ -283,8 +277,6 @@ Data is documented, architected, and managed at the enterprise level. All source
 Process management is completely automated and is reliable. Users know what to expect and how to interact with each process. Repetitive tasks and ongoing processes are automated and error handling is part of that process.
 
 Security is a priority and regular testing leads to proactive tasks to ensure that vulnerabilities are minimal and managed.
-
-![Level 400 to 500](../media/banners/elevate-infrastructure-400-500-single.svg)
 
 ### Level 500 - Optimizing
 

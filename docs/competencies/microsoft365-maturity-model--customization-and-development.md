@@ -102,8 +102,6 @@ At this level you can expect the following:
 - The organization risks not being able to rebuild a solution if it is corrupted.
 - Money is wasted on development when other approaches using low-code or no-code could be used to achieve similar results.
 
-![Level 100 to 200](../media/banners/elevate-customization-and-development-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-customization-and-development-200-single.svg)
@@ -158,8 +156,6 @@ At this level you can expect the following:
 - Inconsistent delivery approaches.
 - The quality of developed solutions is low, and those solutions struggle for adoption.
 - There are issues when deployments occur as deployments are not repeatable and cannot be practiced.
-
-![Level 200 to 300](../media/banners/elevate-customization-and-development-200-300-single.svg)
 
 ### Level 300 - Defined
 
@@ -221,8 +217,6 @@ At this level you can expect the following:
 - Processes are introduced to encourage management, governance, and standardization, leading to easier development, adoption, and support.
 - The organization has a forum for sharing systems and solutions that have been built.
 - Improved release of systems as the structure, processes, and rigor for deployment is put in place, simplifying the IT estate, and reducing support burden and corporate risk.
-
-![Level 300 to 400](../media/banners/elevate-customization-and-development-300-400-single.svg)
 
 ### Level 400 - Predictable
 
@@ -287,8 +281,6 @@ At this level you can expect the following:
 - Higher quality applications and systems are delivered.
 - Design standards mean that users can pick up the application more easily, boosting adoption.
 - Applications meet the needs of their users due to the user centered design approach.
-
-![Level 400 to 500](../media/banners/elevate-customization-and-development-400-500-single.svg)
 
 ### Level 500 - Optimizing
 
