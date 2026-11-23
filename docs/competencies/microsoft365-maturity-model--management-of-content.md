@@ -101,6 +101,8 @@ Types of content cover but are not limited to the following:
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-management-of-content-100-single.svg)
+
 The entry point for most organizations. There are no standards defined for how content is identified, presented or structured. The content is either stored all over the place or in one big bucket which makes it difficult for people to find.
 There is a lot of frustration at this level because people spend a lot of time finding content that they know is there.
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -162,7 +164,11 @@ At this level you can expect the following:
 - Productivity is poor as staff recreate content that already exists. Timescales are often missed, and quality is often low and inconsistent, leading to poor outcomes.
 - Staff are unnecessarily busy, stressed and frustrated.
 
+![Level 100 to 200](../media/banners/elevate-management-of-content-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-management-of-content-200-single.svg)
 
 **[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
@@ -227,7 +233,11 @@ At this level you can expect the following:
 - Staff are focused on tasks which are of low priority to the business which have low impact and so feel that they are not making a different
 - Multiple attempts are made to introduce improvements, however adoption remains poor and managers are unnecessarily busy, stressed and frustrated by the lack of progress.
 
+![Level 200 to 300](../media/banners/elevate-management-of-content-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-management-of-content-300-single.svg)
 
 **[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -282,7 +292,11 @@ At this level you can expect the following:
 - Staff recognize central sources of truth and turn to it in preference to other sources.
 - Improvements can be introduced and are widely adopted in key processes. Managers are seen as leaders of this adoption and benefit from their staff productivity. Some changes remain ineffective, rushed or only partially effective due to the corrosive effects of legacy content and some staff resistance.
 
+![Level 300 to 400](../media/banners/elevate-management-of-content-300-400-single.svg)
+
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-management-of-content-400-single.svg)
 
 **[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
@@ -343,7 +357,11 @@ At this level you can expect the following:
 - Content driven systems are routinely improved; feedback and monitoring mechanisms at granular and aggregate level continuously identify areas for improvement and enable programs of work to maintain productivity as the business landscape evolves.
 - Staff and managers are able to focus on their objectives and are rarely interrupted or frustrated by the quality and accessibility of the content they need or create.
 
+![Level 400 to 500](../media/banners/elevate-management-of-content-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-management-of-content-500-single.svg)
 
 **[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 

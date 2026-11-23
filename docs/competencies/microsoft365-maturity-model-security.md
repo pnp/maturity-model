@@ -86,6 +86,8 @@ See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for defin
 
 ## Level 100 - Initial
 
+![Level 100](../media/banners/competency-security-100-single.svg)
+
 At level 100 maturity, organizations do not view security as a business priority. Security is seen as an IT concern rather than something that affects daily operations or business success. There is no recognition that default security settings in Microsoft 365 are inadequate.
 
 ### Level 100 Characteristics
@@ -131,6 +133,8 @@ At this level, you can expect:
 ---
 
 ## Level 200 - Managed
+
+![Level 200](../media/banners/competency-security-200-single.svg)
 
 At level 200 maturity, organizations acknowledge that security matters but treat it as a checklist exercise rather than a strategic business enabler. Security is recognized as necessary after experiencing an incident, but the response is tactical rather than systematic.
 
@@ -178,6 +182,8 @@ At this level, you can expect:
 ---
 
 ## Level 300 - Defined
+
+![Level 300](../media/banners/competency-security-300-single.svg)
 
 At level 300 maturity, organizations recognize that security is essential to business continuity and competitive advantage. Leadership drives security as a priority, and the organization implements standardized, documented practices across all departments.
 
@@ -229,6 +235,8 @@ At this level, you can expect:
 
 ## Level 400 - Predictable
 
+![Level 400](../media/banners/competency-security-400-single.svg)
+
 At level 400 maturity, an organization's approach to security becomes proactive and data-driven. The focus shifts from establishing policies to continuously improving protection through automation, measurement, and prediction.
 
 ### Level 400 Characteristics
@@ -277,6 +285,8 @@ At this level, you can expect:
 ---
 
 ## Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-security-500-single.svg)
 
 At level 500 maturity, organizations view security as a strategic enabler that actively supports business goals. Security is deeply embedded in organizational culture and decision-making at every level.
 

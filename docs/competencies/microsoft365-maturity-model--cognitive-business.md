@@ -71,6 +71,8 @@ Some characteristics should, perhaps, be addressed a little more urgently than o
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-ai-and-cognitive-business-100-single.svg)
+
 Organizations at this level are unaware of, uninterested in or dismissive of AI supported cognitive business. They rely on their staff to maintain their competitiveness and do not perceive an opportunity or threat to the way they currently operate. Knowledge worker tasks are delivered by staff.
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -104,7 +106,11 @@ AI has no direct, measurable impact, which may mean that disruption, when it com
 - Identify processes with significant repetition where human action could be replaced by AI. At the same time, identify instances where content generation might get a jump start from using AI.
 - Begin evaluating the AI capabilities which are available in in Microsoft 365.
 
+![Level 100 to 200](../media/banners/elevate-ai-and-cognitive-business-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-ai-and-cognitive-business-200-single.svg)
 
 There is some appreciation of the emergence of potent cognitive tools and there may be some experimentation with narrow forms of these to enhance processes or address needs, mostly through the configuration of platform-based services and some use of proprietary data for training. This is Proof of Concept work, with limited process design and little to no consideration of governance and risks initially. Most staff do not have an accurate understanding of the capabilities and limitations of the tools and there are unreasonable expectations of perceptions of risk.
 
@@ -145,7 +151,11 @@ At this level, Cognitive business remains the domain of staff, with a few ‘mav
 To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organization to transform quickly. Look at departments which provide services to the rest of the organization such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins'; and success stories across the organizations to show the value of Cognitive Business solutions.
 Additionally, to be able to move to Level 300, your data needs to be accessible by the Embedded AI models and secured to ensure that the right people have access to the right information when using AI.
 
+![Level 200 to 300](../media/banners/elevate-ai-and-cognitive-business-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-ai-and-cognitive-business-300-single.svg)
 
 At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built-in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
 
@@ -197,7 +207,11 @@ The organization would publish and enforce a  Responsible AI policy and framewor
 There should be processes for capturing new AI development ideas. This might include where AI might be allowed agency to act without human initiation, but with oversight.
 Staff will be expected to use AI tools and productivity gains will be measured.
 
+![Level 300 to 400](../media/banners/elevate-ai-and-cognitive-business-300-400-single.svg)
+
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-ai-and-cognitive-business-400-single.svg)
 
 There are processes to build, deploy, integrate, and manage AI alongside staff in many areas of the organization. A clear process exists to accelerate AI integration into existing processes, along with budget commitments. There are mechanisms to manage and monitor AIs that are similar in importance and effect to those used with staff. Feedback processes and performance metrics drive improvements. The organization’s culture accepts and understands the role of AI and the relationship between staff and their AI tools. The organization uses its skills as a flexible cognitive business to create efficiency and business advantage.
 
@@ -253,7 +267,11 @@ Staff and processes are productive, though there may be concerns about resilienc
 - Think of ways to use AI to monitor metrics and make process suggestions in real time
 - Capture knowledge gained in cognitive business work and contribute to the organization's knowledge bases
 
+![Level 400 to 500](../media/banners/elevate-ai-and-cognitive-business-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-ai-and-cognitive-business-500-single.svg)
 
 Cognitive business has reached the stage of being a natural, continuous flow of interaction between staff and machines. Ethical and GRC issues are effectively monitored against a well-established framework and feedback, retraining and horizon scanning maintain this. Highly capable AIs interface with most parts of the organization and are capable of a large range of tasks working in collaboration with human staff.
 

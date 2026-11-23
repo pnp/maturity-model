@@ -46,6 +46,8 @@ Some characteristics should, perhaps, be addressed a little more urgently than o
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-customization-and-development-100-single.svg)
+
 The customization and development continuum are poorly understood, unmanaged and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by building in live without going through a release process where development is tested before being put live.
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -100,7 +102,11 @@ At this level you can expect the following:
 - The organization risks not being able to rebuild a solution if it is corrupted.
 - Money is wasted on development when other approaches using low-code or no-code could be used to achieve similar results.
 
+![Level 100 to 200](../media/banners/elevate-customization-and-development-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-customization-and-development-200-single.svg)
 
 Different types of development are recognized as occurring, but there are tensions between parts of the organization adopting different approaches. Shadow development continues to occur or is prohibited without providing alternatives.
 
@@ -153,7 +159,11 @@ At this level you can expect the following:
 - The quality of developed solutions is low, and those solutions struggle for adoption.
 - There are issues when deployments occur as deployments are not repeatable and cannot be practiced.
 
+![Level 200 to 300](../media/banners/elevate-customization-and-development-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-customization-and-development-300-single.svg)
 
 There is an appreciation of the limits of the no-code approach, low-code and pro-code approaches and some effort to introduce standards, guidance, and collaboration to structure the co-existence of different approaches against different business needs. Attempts are made to bring all approaches under some form of oversight.
 
@@ -212,7 +222,11 @@ At this level you can expect the following:
 - The organization has a forum for sharing systems and solutions that have been built.
 - Improved release of systems as the structure, processes, and rigor for deployment is put in place, simplifying the IT estate, and reducing support burden and corporate risk.
 
+![Level 300 to 400](../media/banners/elevate-customization-and-development-300-400-single.svg)
+
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-customization-and-development-400-single.svg)
 
 There are clear processes and decision support for solution design and road-mapping consistent with business needs and impacts, encompassing the code-continuum. Standards exist, are functional, and reviewed and inconsistencies are actively eliminated. The portfolio of solutions is well understood and managed.
 
@@ -274,7 +288,11 @@ At this level you can expect the following:
 - Design standards mean that users can pick up the application more easily, boosting adoption.
 - Applications meet the needs of their users due to the user centered design approach.
 
+![Level 400 to 500](../media/banners/elevate-customization-and-development-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-customization-and-development-500-single.svg)
 
 Design decisions are routinely reviewed for effectiveness and learning is applied to continually refine and optimize solutions. Advanced tools are used to measure User Experience and solution efficacy and drive up the quality of all solutions. These are also used to proactively enhance standards and to help shape training of developers.
 

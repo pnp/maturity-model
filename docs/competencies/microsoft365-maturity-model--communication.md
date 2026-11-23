@@ -41,6 +41,8 @@ Note: Some characteristics should, perhaps, be addressed a little more urgently 
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-communication-100-single.svg)
+
 This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled, and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -78,6 +80,8 @@ At this level you can expect the following:
 
 ### Level 200 - Managed
 
+![Level 200](../media/banners/competency-communication-200-single.svg)
+
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
 **[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
@@ -107,6 +111,8 @@ Processes are documented or managed by a central group to enable (but not enforc
 At this level, communications often don’t follow expected layouts, style, and standards.  A central set of policies may exist, managed by a central owner, but there is no shared understanding across the organization of what these are.
 
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-communication-300-single.svg)
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
@@ -141,6 +147,8 @@ Users experience consistency in core communication and know where to go for spec
 
 ### Level 400 - Predictable
 
+![Level 400](../media/banners/competency-communication-400-single.svg)
+
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
 **[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
@@ -172,6 +180,8 @@ The communication process is actively managed in accordance with agreed processe
 At this level, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available, and feel confident in the source and appropriateness of what they receive. This maturity level still may create dissatisfaction in some users who remember the “wild west” days of the organization when it was less mature, and who feel restricted in their ability to communicate if they do not have the appropriate role or level of rights.
 
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-communication-500-single.svg)
 
 Management of the communication process includes deliberate and systematic process improvement and optimization. There is a focus on continually improving communications through both incremental and innovative technological changes or improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions, as well as optimization for user interactions and productivity.
 

@@ -16,6 +16,8 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
+![Servicing Microsoft 365 Apps](../media/banners/scenario-servicing-microsoft-365-apps.svg)
+
 The [Maturity Model for Microsoft 365](../index.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking and planning guidance.  However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
 This Practical Scenarios document covers the servicing (frequent periodic upgrades) for the Office desktop apps (Word, Excel, PowerPoint, Outlook, OneNote, Access and any others that appear in future), including those in Microsoft 365 plans, M365 Apps for Enterprise and any other plans that include desktop-installed applications.

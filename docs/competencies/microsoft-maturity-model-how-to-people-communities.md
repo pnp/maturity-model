@@ -26,6 +26,8 @@ This article aims to specifically explore how organizations at any level could u
 
 ## How to move from Initial to Managed (level 100 to 200)
 
+![Level 100 to 200](../media/banners/elevate-people-and-communities-100-200-single.svg)
+
 Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. Much of the important interaction between employees occurs with in-person meetings, chat, or hallway encounters and often with no clear outcomes.
 
 There is little company guidance or recommendation on where to have different types of conversations to be most effective. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. Most conversations use email as the only communication channel.
@@ -47,6 +49,8 @@ Begin to pilot open community spaces like Viva Engage or an org-wide Team. The "
 Reach out to your [SharePoint Champions](/community-docs/articles/identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to complete and maintain their Microsoft 365 profile information, including skills and expertise where those fields are available in your organization. Use Microsoft 365 search and profile cards in apps such as Teams, Outlook, and SharePoint to help people find colleagues who provide internal customer service support (like answering benefits questions or providing support with a specific software), and to identify sources of knowledge and expertise.
 
 ## How to move from Managed to Defined (level 200 to 300)
+
+![Level 200 to 300](../media/banners/elevate-people-and-communities-200-300-single.svg)
 
 At the 200 level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
@@ -88,6 +92,8 @@ The most effective guidelines are simple and easy to consume supporting quick de
 
 ## How to move from Defined to Predictable to (level 300 to 400)
 
+![Level 300 to 400](../media/banners/elevate-people-and-communities-300-400-single.svg)
+
 At the 300 level, commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Viva Engage Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. Team communication channels are well defined and agreed upon as a standard business process.
 
 People profiles have additional information populated for skills, expertise, and past projects which can maintained independently. People begin using search to identify subject matter experts in the organization instead of emailing multiple people across the organization because they can find better results with people profiles.
@@ -113,6 +119,8 @@ Now that end users have added their skills, expertise, and project data into the
 - Review the Microsoft 365 search logs to identify most searched for terms and abandoned search results. Understanding what people are looking for will help guide which terms should be used in the profiles.
 
 ## How to move from Predictable to Optimizing (level 400 to 500)
+
+![Level 400 to 500](../media/banners/elevate-people-and-communities-400-500-single.svg)
 
 Organizations at the 400 level have a strategic view of all communication channels including email, Viva Engage Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increasing engagement in the respective communities. There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership.
 

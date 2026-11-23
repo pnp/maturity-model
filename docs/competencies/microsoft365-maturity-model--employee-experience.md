@@ -76,6 +76,8 @@ It is useful to categorize Employee Experience into 4 sub-competencies:
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-employee-experience-100-single.svg)
+
 This is the starting level for a new or dysfunctional organization. Strategy may appear to be absent; plans lack consistency or conviction and staff and leadership operate with a sense of unease or evident chaos characterized by firefighting and tension.
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -132,7 +134,11 @@ Toxic personalities and individuals are not addressed, leading to staff disengag
 
 There is often high absenteeism.
 
+![Level 100 to 200](../media/banners/elevate-employee-experience-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-employee-experience-200-single.svg)
 
 There are efforts to ensure that the company strategy is trickled down to staff. The strategy may lack clarity or resonance with employees, or may not be translated into actions they feel they can engage in. There is a sense of 'in this together' but it is characterized by fighting against the issues rather than pulling towards the goals. Managers have an understanding that staff should have good experiences and gel as a team but are unclear how to achieve this.
 
@@ -188,7 +194,11 @@ Collaboration and peer support begins to improve productivity, though lacks cons
 
 The organization begins to recognize that positive impacts are related to the changes they are making.  
 
+![Level 200 to 300](../media/banners/elevate-employee-experience-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-employee-experience-300-single.svg)
 
 The organization understands the key drivers of Employee Experience.
 
@@ -255,7 +265,11 @@ Staff take initiative, and they are proactive, including taking responsibility f
 
 The organization begins to see positive impacts on areas like profitability, productivity, efficiency, quality, creativity, safety, compliance, employee well-being, and staff retention.  
 
+![Level 300 to 400](../media/banners/elevate-employee-experience-300-400-single.svg)
+
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-employee-experience-400-single.svg)
 
 Employee Experience is a core activity for the organization, with executive accountability and metrics that demonstrate the impact on the organization and support its progress.
 
@@ -319,7 +333,11 @@ Staff are resilient and able to remain effective and positive when times are tou
 
 These high levels of employee engagement have a significant impact on the organization's bottom line in several areas of profitability, productivity, efficiency, quality, creativity, safety, compliance, employee well-being, and retention.  
 
+![Level 400 to 500](../media/banners/elevate-employee-experience-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-employee-experience-500-single.svg)
 
 Employee Experience is pervasive in the organization, from shop floor staff to the board room; with everyone equally engaged. Analysis, AI, and staff contribute to and drive the experience strategy and tactics, with adaptive plans and a self-reinforcing culture anchored in shared goals and vision. Staff are curious, knowledgeable, and contribute to sophisticated knowledge management.
 

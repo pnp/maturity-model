@@ -57,6 +57,8 @@ This Search competency relies heavily on several other competencies including Co
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-search-100-single.svg)
+
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### 100 Governance, Risk, Compliance & Security
@@ -106,7 +108,11 @@ Some individuals are key knowledge sources, impeding their work and/or becoming 
 
 Productivity is compromised; compliance activities are weak; organizational and colleague knowledge are poorly leveraged and there is a pervasive frustration at the inability to find things.
 
+![Level 100 to 200](../media/banners/elevate-search-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-search-200-single.svg)
 
 **[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
@@ -155,7 +161,11 @@ AI search delivers occasional value but is inconsistent, with limited trust from
 
 Productivity and compliance remain compromised; and frustration at the inability to find things persists.
 
+![Level 200 to 300](../media/banners/elevate-search-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-search-300-single.svg)
 
 **[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -196,8 +206,11 @@ Search actively adds value to organizations, releasing staff time, improving com
 At this level, Search becomes an asset to the organization. This has been recognized as an enabler that develops more efficient and effective employees. The capabilities of search are harnessed to improve the experience of businesses applications.
 AI search begins to measurably improve findability and productivity, though benefits are still dependent on user skill in crafting effective queries and content governance limitations erodes search confidence.
 
+![Level 300 to 400](../media/banners/elevate-search-300-400-single.svg)
 
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-search-400-single.svg)
 
 **[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
@@ -256,7 +269,11 @@ Search is a key business information tool that enables most processes. It is wid
 AI search consistently accelerates access to accurate, context‑relevant information, reducing time spent locating and validating content across the organisation.
 Search results can be relied on; the current versions are reliably returned; inappropriate or incorrect content is rare.
 
+![Level 400 to 500](../media/banners/elevate-search-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-search-500-single.svg)
 
 **[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 

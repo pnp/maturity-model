@@ -35,6 +35,8 @@ See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for defin
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-people-and-communities-100-single.svg)
+
 You might recognize this one. Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. They may still have printed phone directories or Excel spreadsheets (which, to be fair, can be surprisingly useful during IT incidents). There are no expectations within the company that personal profiles are completed or updated. Much of the important interaction between employees occurs with in-person meetings, chat, or hallways and often with no clear outcomes.
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -77,6 +79,8 @@ Systems may exist to support identifying who works in the organization and in wh
 
 ### Level 200 - Managed
 
+![Level 200](../media/banners/competency-people-and-communities-200-single.svg)
+
 At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
 **[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
@@ -117,6 +121,8 @@ At this level you can expect the following:
 - Staff retention levels are increased over level 100 as people feel more connected with one another and the organisation.
 
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-people-and-communities-300-single.svg)
 
 This is where things start to click. **[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -168,6 +174,8 @@ At this level you can expect the following:
 
 ### Level 400 - Predictable
 
+![Level 400](../media/banners/competency-people-and-communities-400-single.svg)
+
 **[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 User Experience
@@ -214,6 +222,8 @@ At this level you can expect the following:
 - The strategic view of all communication channels increases engagement in the respective communities, leading to serendipitous connections between people who might not have previously collaborated.
 
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-people-and-communities-500-single.svg)
 
 This is where you want to be. **[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 

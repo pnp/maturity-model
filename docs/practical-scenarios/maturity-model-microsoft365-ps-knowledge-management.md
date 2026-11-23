@@ -16,6 +16,8 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
+![Knowledge Management](../media/banners/scenario-knowledge-management.svg)
+
 ## Overview
 
 This practical scenario uses the concepts and characteristics from the appropriate Maturity Model for Microsoft 365 competencies to allow organizations to assess and improve their approach to Knowledge Management ("KM"). It uses the same underpinning criteria and format as the Maturity Model broad Competency articles, however the emphasis in practical scenarios is to address and mature specific business processes, needs, and activities. As such, Practical Scenarios generally span concepts and characteristics from multiple competencies. The intention is to let organizations define what the role of Knowledge Management is for them and what actions, policies and technologies should be used to reach their desired level of maturity.

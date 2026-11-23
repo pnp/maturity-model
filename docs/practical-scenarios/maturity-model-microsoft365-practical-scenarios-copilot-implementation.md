@@ -16,6 +16,8 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
+![Implementing Microsoft 365 Copilot Organization-Wide](../media/banners/scenario-implementing-microsoft-365-copilot-organization-wide.svg)
+
 The Maturity Model for Microsoft 365 is a useful tool for considering high level business capabilities and competencies, providing benchmarking, and planning guidance. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
 This Practical Scenarios document covers implementing Microsoft 365 Copilot across an entire organization. Microsoft 365 Copilot represents a significant shift in how knowledge workers interact with technology, moving from traditional interfaces to AI-assisted collaboration and productivity. Successful organization-wide implementation requires careful consideration of multiple competencies, particularly People and Communities, Staff & Training, and AI & Cognitive Business.
