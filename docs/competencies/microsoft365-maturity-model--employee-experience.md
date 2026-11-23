@@ -134,8 +134,6 @@ Toxic personalities and individuals are not addressed, leading to staff disengag
 
 There is often high absenteeism.
 
-![Level 100 to 200](../media/banners/elevate-employee-experience-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-employee-experience-200-single.svg)
@@ -193,8 +191,6 @@ Staff may attempt to make proactive improvements, though these initiatives often
 Collaboration and peer support begins to improve productivity, though lacks consistency and remains fragile.  
 
 The organization begins to recognize that positive impacts are related to the changes they are making.  
-
-![Level 200 to 300](../media/banners/elevate-employee-experience-200-300-single.svg)
 
 ### Level 300 - Defined
 
@@ -265,8 +261,6 @@ Staff take initiative, and they are proactive, including taking responsibility f
 
 The organization begins to see positive impacts on areas like profitability, productivity, efficiency, quality, creativity, safety, compliance, employee well-being, and staff retention.  
 
-![Level 300 to 400](../media/banners/elevate-employee-experience-300-400-single.svg)
-
 ### Level 400 - Predictable
 
 ![Level 400](../media/banners/competency-employee-experience-400-single.svg)
@@ -332,8 +326,6 @@ Highly engaged staff invest discretionary effort; they willingly choose to go ab
 Staff are resilient and able to remain effective and positive when times are tough.  
 
 These high levels of employee engagement have a significant impact on the organization's bottom line in several areas of profitability, productivity, efficiency, quality, creativity, safety, compliance, employee well-being, and retention.  
-
-![Level 400 to 500](../media/banners/elevate-employee-experience-400-500-single.svg)
 
 ### Level 500 - Optimizing
 

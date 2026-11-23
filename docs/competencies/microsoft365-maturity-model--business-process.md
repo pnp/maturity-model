@@ -72,8 +72,6 @@ At this level you can expect the following:
 - It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk.
 
-![Level 100 to 200](../media/banners/elevate-business-process-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-business-process-200-single.svg)
@@ -116,8 +114,6 @@ At this level you can expect the following:
 - Single points of failure exist within the technology and within the expertise to maintain or improve it.
 - There is often disagreement or conflict between a company-wide approach vs. embedded capabilities in line of business systems.
 
-![Level 200 to 300](../media/banners/elevate-business-process-200-300-single.svg)
-
 ### Level 300 - Defined
 
 ![Level 300](../media/banners/competency-business-process-300-single.svg)
@@ -158,8 +154,6 @@ At this level you can expect the following:
 - There is increasing employee confidence in following the processes because they provide better results than prior manual processes.
 - The credibility of the team is improved, that helps user acceptance for new processes.
 
-![Level 300 to 400](../media/banners/elevate-business-process-300-400-single.svg)
-
 ### Level 400 - Predictable
 
 ![Level 400](../media/banners/competency-business-process-400-single.svg)
@@ -198,8 +192,6 @@ At this level you can expect the following:
 - Users feel that a particular automated process is stable. They have come to rely on it and shudder at the thought of the "bad old days."
 - The organization is looking for other places to automate processes, asking the question "is this a candidate for automation?".
 - New insights gathered from process analytics support restructuring of business processes for continual process improvement, earlier identification of issues, and data to support additional headcount, where needed. (e.g., for headcount: showing long lead times in SharePoint project requests where the delay is due to limited headcount to build solutions).
-
-![Level 400 to 500](../media/banners/elevate-business-process-400-500-single.svg)
 
 ### Level 500 - Optimizing
 

@@ -164,8 +164,6 @@ At this level you can expect the following:
 - Productivity is poor as staff recreate content that already exists. Timescales are often missed, and quality is often low and inconsistent, leading to poor outcomes.
 - Staff are unnecessarily busy, stressed and frustrated.
 
-![Level 100 to 200](../media/banners/elevate-management-of-content-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-management-of-content-200-single.svg)
@@ -233,8 +231,6 @@ At this level you can expect the following:
 - Staff are focused on tasks which are of low priority to the business which have low impact and so feel that they are not making a different
 - Multiple attempts are made to introduce improvements, however adoption remains poor and managers are unnecessarily busy, stressed and frustrated by the lack of progress.
 
-![Level 200 to 300](../media/banners/elevate-management-of-content-200-300-single.svg)
-
 ### Level 300 - Defined
 
 ![Level 300](../media/banners/competency-management-of-content-300-single.svg)
@@ -291,8 +287,6 @@ At this level you can expect the following:
 - ✨ Staff find it easier to find, understand and act on existing content. Productivity improves; rework and errors are noticeably in decline.
 - Staff recognize central sources of truth and turn to it in preference to other sources.
 - Improvements can be introduced and are widely adopted in key processes. Managers are seen as leaders of this adoption and benefit from their staff productivity. Some changes remain ineffective, rushed or only partially effective due to the corrosive effects of legacy content and some staff resistance.
-
-![Level 300 to 400](../media/banners/elevate-management-of-content-300-400-single.svg)
 
 ### Level 400 - Predictable
 
@@ -356,8 +350,6 @@ At this level you can expect the following:
 - Staff intuitively use definitive reference content; they know how to validate that they are using appropriate information and are collectively confident of decisions based on their sources.
 - Content driven systems are routinely improved; feedback and monitoring mechanisms at granular and aggregate level continuously identify areas for improvement and enable programs of work to maintain productivity as the business landscape evolves.
 - Staff and managers are able to focus on their objectives and are rarely interrupted or frustrated by the quality and accessibility of the content they need or create.
-
-![Level 400 to 500](../media/banners/elevate-management-of-content-400-500-single.svg)
 
 ### Level 500 - Optimizing
 

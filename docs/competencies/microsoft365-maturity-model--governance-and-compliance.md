@@ -133,8 +133,6 @@ Due to the lack of policies, controls and user training to support information/ 
 - Shadow IT emerges as employees create their own document storage solutions outside IT oversight.
 - Unclear accountability for information governance, leading to uncontrolled site sprawl and data loss risks.
 
-![Level 100 to 200](../media/banners/elevate-governance-risk-and-compliance-100-200-single.svg)
-
 ### Level 200 - Managed
 
 ![Level 200](../media/banners/competency-governance-risk-and-compliance-200-single.svg)
@@ -193,8 +191,6 @@ At this level you can expect the following:
 - Limited metadata adoption leads to difficulty in organizing and finding information.
 - Some compliance improvement, but retention policies are not systematically enforced.
 - Growing awareness of external sharing risks, but lack of standardization creates security gaps.
-
-![Level 200 to 300](../media/banners/elevate-governance-risk-and-compliance-200-300-single.svg)
 
 ### Level 300 - Defined
 
@@ -269,8 +265,6 @@ At this level:
 - Not all Governance, Risk and Compliance risks are addressed and there are frequently unknown risks.
 - Standardized site and document structures reduce redundant storage and improve findability.
 - Clear categorization of sensitive and critical business data enhances data protection measures.
-
-![Level 300 to 400](../media/banners/elevate-governance-risk-and-compliance-300-400-single.svg)
 
 ### Level 400 - Predictable
 
@@ -348,8 +342,6 @@ At this level
 - Data investigation become simpler due to advanced tools and only the right data being retained.
 - Automated processes ensure consistent application of retention policies, reducing the risk of non-compliance.
 - Ownership of content is fully established, with clear accountability for document governance.
-
-![Level 400 to 500](../media/banners/elevate-governance-risk-and-compliance-400-500-single.svg)
 
 ### Level 500 - Optimizing
 
