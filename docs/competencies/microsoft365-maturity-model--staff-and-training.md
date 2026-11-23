@@ -33,6 +33,8 @@ See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for defin
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-staff-and-training-100-single.svg)
+
 Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched. Typically there is a bottom-line problem to be solved (e.g. platform migration due to a merger) which takes top priority. User and training needs have not been defined, evaluated, or documented. This leaves end users to develop their own methods for working with the new solutions. As a result, they may miss out on core benefits of the solution. We often refer to this level as the "Wild West Adoption Model."
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -51,6 +53,8 @@ The solution was launched without consultation with the business for needs or ch
 Short and long-term system support was not considered so no formal business processes exist to support issues or requests. End users are left to problem solve with internet searches or by sending emails around the organization seeking assistance.
 
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-staff-and-training-200-single.svg)
 
 At this level, the focus is on improving the break/fix (tier 1) support by documenting processes and ensuring the support staff has repeatable solutions to common problems in the organization. There is a business process in place for reaching out to the support staff to receive help for issues though there is not a consistent resource for strategic guidance.
 
@@ -74,6 +78,8 @@ The wait time for system support may be incredibly long due to limited support s
 Content owners may begin to share the message of positive impacts of the solution across the organization, raising interest, as they are empowered to work independently with the solution.
 
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-staff-and-training-300-single.svg)
 
 The organization is actively using the solution(s) with a training plan in place for all new and existing employees. The training is focused on how to use the system specific to interacting with the interface and accomplishing basic tasks. This training helps raise the technical literacy of the organization as users begin consistently using the solution as intended. The established training also reduces silo solutioning with unsupported products, or misuse of the solution.
 
@@ -99,6 +105,8 @@ As comfort with the system increases, end users are interested in increasing the
 An IT resource is available to have these discussions, though it is not enough staff to support all needs so only high priority requests are taken into consideration at this time.
 
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-staff-and-training-400-single.svg)
 
 The training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization's understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department. All training is also linked in a central repository, like Learning Pathways or other Learning Management Systems, supporting a centralized approach to the training plan and allowing easy access for end users to find all training related to Microsoft 365.
 
@@ -144,6 +152,8 @@ As technical literacy increases, so does the interest from employees outside of 
 Now that the entire company is actively using the system for common business processes, there are regular updates shared with the entire company for changes and improvements on a regular cadence. There is a process in place to receive feedback from the organization which influences future enhancements and continuous improvement. The system support staff has increased enabling the business to shift support from reactionary to proactive and decreases wait times for help.
 
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-staff-and-training-500-single.svg)
 
 Business involvement in the Microsoft 365 platform and solutions has grown well outside of the IT department. Senior leadership is actively involved in proactively evaluating platform improvements and provides feedback on the strategic plan ensuring it aligns with the company priorities. Senior leadership's involvement and support cascades down through the organization which formally supports embedding platform roles and responsibilities into job descriptions of IT, content owners, citizen developers, and power users. Expanding organizational involvement well past the IT department to include senior leaders and a SharePoint Community of Practice invites new opportunities to improve business processes, drive innovation, and seek opportunities where advancing technology can be a competitive advantage.
 

@@ -16,6 +16,8 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
+![Microsoft 365 Service Change Management](../media/banners/scenario-microsoft-365-service-change-management.svg)
+
 The [Maturity Model for Microsoft 365](../index.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking, and planning guidance. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
 This Practical Scenarios document covers service change management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically in the Message Center. Frequent review of Message Center Messages should be a key practice in operational management of all Microsoft 365 products/services as well as Windows endpoints (client *and* server) and Power Platform).

@@ -32,6 +32,8 @@ See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for defin
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-business-process-100-single.svg)
+
 Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual (e.g., certified Continuous Process Improvement expert) leading the charge to use technology to make improvements.
 
 **[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -70,7 +72,11 @@ At this level you can expect the following:
 - It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk.
 
+![Level 100 to 200](../media/banners/elevate-business-process-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-business-process-200-single.svg)
 
 Organizations at this level are evaluating or implementing technology to help automate some of their processes in a standardized way. As a result, some lines of business may be mapping their processes for the first time, and gaining a true sense of all the steps, dependencies, exceptions, and delays. There is momentum to manage particular processes based on business need and/or process owner enthusiasm. An understanding of the benefits of automation is developing. A particular line of business or department may have successfully leveraged technologies to manage processes and are evangelizing this to other departments.
 
@@ -110,7 +116,11 @@ At this level you can expect the following:
 - Single points of failure exist within the technology and within the expertise to maintain or improve it.
 - There is often disagreement or conflict between a company-wide approach vs. embedded capabilities in line of business systems.
 
+![Level 200 to 300](../media/banners/elevate-business-process-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-business-process-300-single.svg)
 
 Organizations at this level are using M365 to manage business process across multiple lines of business, and consistently across locations.
 
@@ -148,7 +158,11 @@ At this level you can expect the following:
 - There is increasing employee confidence in following the processes because they provide better results than prior manual processes.
 - The credibility of the team is improved, that helps user acceptance for new processes.
 
+![Level 300 to 400](../media/banners/elevate-business-process-300-400-single.svg)
+
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-business-process-400-single.svg)
 
 Organizations at this level have set goals for the process, such as reduced time between steps, lower cost, fewer errors, customer satisfaction, etc., and the process is being measured against these goals. The system is supporting and driving the business process rather than the individuals involved in the process. The results are predictable, and the users have come to depend on the system and no longer feel the need or desire to work around it.
 
@@ -185,7 +199,11 @@ At this level you can expect the following:
 - The organization is looking for other places to automate processes, asking the question "is this a candidate for automation?".
 - New insights gathered from process analytics support restructuring of business processes for continual process improvement, earlier identification of issues, and data to support additional headcount, where needed. (e.g., for headcount: showing long lead times in SharePoint project requests where the delay is due to limited headcount to build solutions).
 
+![Level 400 to 500](../media/banners/elevate-business-process-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-business-process-500-single.svg)
 
 Organizations at this level are using the M365 platform optimally to automate their processes, and are focused on feedback and continuous improvement. The goals/metrics are being achieved on a regular basis, and there is both objective data and anecdotal evidence to support the success of the solution.
 

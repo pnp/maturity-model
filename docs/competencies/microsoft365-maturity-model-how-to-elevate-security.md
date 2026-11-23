@@ -26,6 +26,8 @@ This article explores how organizations at any level could use the Microsoft 365
 
 ## How to Move from Initial to Managed (Level 100 to 200)
 
+![Level 100 to 200](../media/banners/elevate-security-100-200-single.svg)
+
 **The Shift:** Moving from ignorance to awareness. Someone in the organization (usually after an incident, audit finding, or customer requirement) recognizes that default settings and informal practices are inadequate. Security moves from "not our problem" to "we should probably do something about this."
 
 ### What Changes
@@ -83,6 +85,8 @@ This article explores how organizations at any level could use the Microsoft 365
 ---
 
 ## How to Move from Managed to Defined (Level 200 to 300)
+
+![Level 200 to 300](../media/banners/elevate-security-200-300-single.svg)
 
 **The Shift:** Moving from inconsistent, checkbox compliance to organization-wide standards. Security becomes "how we do things here" rather than an afterthought. Leadership commits to consistent enforcement and dedicated resources.
 
@@ -151,6 +155,8 @@ This article explores how organizations at any level could use the Microsoft 365
 
 ## How to Move from Defined to Predictable (Level 300 to 400)
 
+![Level 300 to 400](../media/banners/elevate-security-300-400-single.svg)
+
 **The Shift:** Moving from manual enforcement to automated protection and from reactive response to predictive prevention. Security teams stop spending time on routine tasks and start focusing on strategic threats. The organization moves from "are we compliant?" to "are we ahead of threats?"
 
 ### What Changes
@@ -216,6 +222,8 @@ This article explores how organizations at any level could use the Microsoft 365
 ---
 
 ## How to Move from Predictable to Optimizing (Level 400 to 500)
+
+![Level 400 to 500](../media/banners/elevate-security-400-500-single.svg)
 
 **The Shift:** Moving from "security is important" to "security is how we think." Security becomes organizational DNA rather than a program to manage. The organization treats security as a continuous journey requiring ongoing evolution, not a destination to reach.
 

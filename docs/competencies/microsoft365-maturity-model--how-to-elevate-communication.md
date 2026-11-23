@@ -26,6 +26,8 @@ This article explores how organizations at any level could use the Microsoft 365
 
 ## How to move from Initial to Managed (Level 100 to 200)
 
+![Level 100 to 200](../media/banners/elevate-communication-100-200-single.svg)
+
 Organizations at the 100 level of communication may find practices to be somewhat effective, but they don’t take advantage of the full power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. There are no restrictions or guidance on who should communicate to whom in any standard format. The majority of communication is sent in email without consideration of varied audiences.
 
 * Identify key stakeholders to drive strategic decisions around communication styles in the company. This group commonly includes corporate communications and/or marketing, human resources, information technology, and key leadership roles. This Communication Steering Committee may then focus on:
@@ -39,6 +41,8 @@ Organizations at the 100 level of communication may find practices to be somewha
 
 ## How to move from Managed to Defined (Level 200 to 300)
 
+![Level 200 to 300](../media/banners/elevate-communication-200-300-single.svg)
+
 Communication at the 200 level sees some improvement as there is sporadic usage of the layouts, style, and standards. There is shared understanding of these resources across the organization though there is no training, support, or enforcement of these guidelines.
 
 * Communications leads socialize the communication style guide and communication policy within their teams to ensure full understanding of guidance. This is also an opportunity for additional feedback for the steering committee for any challenges with the current guidance.
@@ -50,6 +54,8 @@ Communication at the 200 level sees some improvement as there is sporadic usage 
 * Begin conversations with the steering committee to identify any needs for removing or archiving old content and scheduling future content.
 
 ## How to move from Defined to Predictable to (Level 300 to 400)
+
+![Level 300 to 400](../media/banners/elevate-communication-300-400-single.svg)
 
 Communication is widely accessed and is broadly effective. There are mechanisms with agreed processes for centrally delivering the common communications needs using images and templated layouts. Users experience consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.
 
@@ -65,6 +71,8 @@ Communication is widely accessed and is broadly effective. There are mechanisms 
 * If communication approvals need to be implemented (as determined by the steering committee), the impacted communication channels are identified, and a business process is in place. For most organizations, the focus should remain on keeping as much freedom in sharing communication across the organization as possible to ensure timely updates. Highly regulated industries may need more control.
 
 ## How to move from Predictable to Optimizing (Level 400 to 500)
+
+![Level 400 to 500](../media/banners/elevate-communication-400-500-single.svg)
 
 At the 400 level of Communications, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available and feel confident in the source and appropriateness of what they receive.
 

@@ -17,7 +17,7 @@ ms.collection: SPCommunity
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](../media/M365MM.png)
+![How to run a Maturity Model workshop](../media/banners/tool-how-to-run-a-workshop.svg)
 
 ## Introduction
 

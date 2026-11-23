@@ -44,6 +44,8 @@ See the [Maturity Model for Microsoft 365 - Introduction](/microsoft-365/communi
 
 ### Level 100 - Initial
 
+![Level 100](../media/banners/competency-infrastructure-100-single.svg)
+
 Organizations at this level are usually at the very beginning of their journey into the cloud. They are likely in the middle of, or have recently, migrated into the cloud. They may also be a new smaller business starting out as cloud first. They may be a small business without a dedicated IT staff. Cloud technologies are probably in use since they are easier to provision than on premises technologies to get to the "good enough to do the job" state. It is common for a company to get enough cloud functionality put into place so they can start working on core business and never leave Level 100 and continue to operate with a minimal IT team or have just functional external IT support.
 
 There may continue to be servers under staff desks, portable hard drives in drawers and a file server for organizational files.
@@ -106,7 +108,11 @@ When operating at Level 100, processes are not defined so there is little consis
 
 There are also likely security vulnerabilities as authentication and authorization isn't standardized, and platform security functionality is not likely to be taken advantage of. Files are routinely duplicated, file storage lacks effective structure, search is ineffective.
 
+![Level 100 to 200](../media/banners/elevate-infrastructure-100-200-single.svg)
+
 ### Level 200 - Managed
+
+![Level 200](../media/banners/competency-infrastructure-200-single.svg)
 
 Processes are documented or widely understood to enable (but not enforce) the preferred ways of doing them. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists, it may help to ensure that existing processes are maintained during times of stress.
 
@@ -167,7 +173,11 @@ Regular processes are beginning to follow a regular routine and many of them are
 
 Security becomes more of a concern as user adoption grows, custom features and functionality increases, and citizen development enters the mix. Passwords are stored in some way and service accounts are beginning to be used for processes that cross boundaries.
 
+![Level 200 to 300](../media/banners/elevate-infrastructure-200-300-single.svg)
+
 ### Level 300 - Defined
+
+![Level 300](../media/banners/competency-infrastructure-300-single.svg)
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off and subject to some degree of improvement over time. These standard processes are in place. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or for the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to the next level of maturity.
 
@@ -221,7 +231,11 @@ Process management is becoming well defined, documented, and enforced. Users kno
 
 Security is a priority and regular testing leads to proactive tasks to ensure that vulnerabilities are minimal and managed.
 
+![Level 300 to 400](../media/banners/elevate-infrastructure-300-400-single.svg)
+
 ### Level 400 - Predictable
+
+![Level 400](../media/banners/competency-infrastructure-400-single.svg)
 
 The process is actively managed in accordance with agreed processes and has tracked metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments and scenarios has been tested and the process refined and adapted with corresponding updates to documentation, policy, and training. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. Adapting to new projects or scenarios can occur without unexpected, measurable losses of quality. Process Capability is established from this level.
 
@@ -270,7 +284,11 @@ Process management is completely automated and is reliable. Users know what to e
 
 Security is a priority and regular testing leads to proactive tasks to ensure that vulnerabilities are minimal and managed.
 
+![Level 400 to 500](../media/banners/elevate-infrastructure-400-500-single.svg)
+
 ### Level 500 - Optimizing
+
+![Level 500](../media/banners/competency-infrastructure-500-single.svg)
 
 Management of the process includes deliberate and systematic process improvement/optimization. There is focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance, using techniques such as Statistical Process Control (SPC). Level 500 is likely to include automation, reduction in human input and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.
 
